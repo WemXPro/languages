@@ -188,7 +188,7 @@
     'refund_support_title' => 'Soporte de Reembolsos',
     'admin' => 'Administración',
     'view_all' => 'Ver Todo',
-    'panel' => 'PANEL',
+    'panel' => 'Panel',
     'services' => 'Servicios',
     'design_and_compatibility' => 'Diseño y Compatibilidad',
     'packages' => 'Paquetes',
