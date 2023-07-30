@@ -1,4 +1,4 @@
-<?php return array (
-  'previous' => 'Попередня',
-  'next' => 'Наступна',
+<?php return array(
+    'previous' => 'Попередня',
+    'next' => 'Наступа',
 );
