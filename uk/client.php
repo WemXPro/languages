@@ -399,4 +399,7 @@ return [
             Нижче ви можете продовжити свій сервіс на інший :period. Після натискання кнопки "Оновити", ми створимо для вас рахунок на оплату.',
     'create_location' => 'Створити розташування',
     'bill_to' => 'Рахунок',
+    'suspended' => 'Призупинено',
+    'email_subscription_payment_completed_subject' => 'Підписка',
+    'email_subscription_payment_content' => 'Підписка було успішно оплачена',
 ];

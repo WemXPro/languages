@@ -40,6 +40,8 @@
     'user_verify_success' => 'Email has been verified',
     'user_update_balance_success' => 'User balance was updated successfully',
     'user_email_password_reset' => 'Email with password reset link has been emailed',
+    'user_device_updated' => 'Device has been updated',
+    'user_device_deleted' => 'Device has been deleted',
     'categories_create_success' => 'The category :name created successfully.',
     'categories_update_success' => 'The category :name update successfully.',
     'categories_delete_error' => 'The category :name must not have any packages attached to it to be deleted.',

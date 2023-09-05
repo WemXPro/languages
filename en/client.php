@@ -1,6 +1,4 @@
-<?php
-
-return [
+<?php return array(
     'choose_domain' => 'Choose a domain...',
     'reg_new_domain' => 'Register new domain',
     'use_own_domain' => 'Use your own domain',
@@ -36,7 +34,6 @@ return [
     'no_records_found' => ' No records found',
     'no_record_found_desc' => 'You have not yet :paid any invoices, :paid invoices will appear here',
     'invoice' => 'Invoice',
-
     'payment_not_received' => 'Payment has not yet been received.',
     'checking_in' => 'Checking In',
     'bitpave_payment_engine' => 'Powered by Bitpave payment engine',
@@ -338,4 +335,11 @@ return [
     'renew_for' => 'Renew for',
     'ptero_renew_desc' => 'Your service is expires on the :due_date, :due_date_diff.<br><br>Below you can renew your service for another :period. After hitting "Renew", we will generate an invoice for you to pay.',
     'create_location' => 'Create Location',
-];
+    'suspended' => 'Suspended',
+    'bill_to' => 'Billed to',
+    'email_subscription_payment_completed_subject' => 'Subscription',
+    'email_subscription_payment_content' => 'The subscription was successfully paid',
+    'account_suspended' => 'Your account has been suspended',
+    'suspended_contact_for_information' => 'Your access to this application was revoked. If you believe this was an error, please contact us.',
+    'reference_id' => 'Reference ID: ',
+);

@@ -286,7 +286,7 @@
     'per_client_stock_package_desc' => 'Client stock indicates the stock limit per client. Set to <code>-1</code> to allow unlimited',
     'gateways_data_default_desc' => 'Data for custom gateways, should be left empty by default.',
     'data' => 'Data',
-    'per_years' => 'Per :years Years',
+    'per_years' => ':years Years',
     'yearly' => 'Yearly',
     'quarterly' => 'Quarterly',
     'monthly' => 'Monthly',
@@ -486,6 +486,7 @@
     'sent' => 'Sent',
     'activate_account' => 'Activate Account',
     'user_activate_account_desc' => 'This account is currently awaiting activation by an moderator, click the button below to active this users account.',
+    'login_as_user' => 'Login as user',
     'pending_email_verification' => 'Pending Email Verification',
     'pending_email_verification_desc' => 'This user has not yet verified their email address',
     'manually_verify' => 'Manually Verify',
@@ -569,8 +570,78 @@
     'location_has_been_updated' => 'Location has been updated',
     'ptero_renewal_desc' => 'Renewal :name [:param - :add_days_period]',
     'invoice_generated_successfully' => 'Invoice has been generated successfully',
-    'service_already_cancelled' => 'This service was already cancelled',
+    'service_already_cancelled' => 'This service was already cancelled or is no longer active',
     'pay_cancellation_fee_cancel_service' => 'Please pay the cancellation fee to cancel your service.',
     'undo_canceled_resp' => 'Cancellation has been undone, your plan has been restarted',
     'panel_login_mess' => 'Something went wrong, please contact an administrator.',
+    'instruction' => 'Instruction',
+    'email_suspended_subject' => 'Your service has been suspended',
+    'email_suspended_button' => 'Renew Service',
+    'email_suspended_content' => '
+                    <br><br>
+                    Service Details: <br>
+                    &bull; ID: #:order_id <br>
+                    &bull; Service Name: :order_name <br>
+                    &bull; Renewal Amount: :amount_rounded / :period <br>
+                    &bull; Due date: :due_date <br><br>
+                    ',
+    'email_terminated_subject' => 'Your service has been terminated',
+    'email_terminated_content' => '                    <br><br>
+                    Service Details: <br>
+                    &bull; ID: #:order_id <br>
+                    &bull; Service Name: :order_name <br>
+                    &bull; Renewal Amount: :amount / :period <br>
+                    &bull; Due date: :due_date <br><br>
+                    ',
+    'email_manage_button' => 'Manage Order',
+    'order_create_email_subject' => 'Your order is ready for use.',
+    'order_create_email_content' => '                <br><br>
+                    Service Details: <br>
+                    &bull; ID: #:order_id <br>
+                    &bull; Order Name: :order_name <br>
+                    &bull; Due Date: :due_date <br><br>                ',
+    'order_extended_email_subject' => 'Your order has been extended',
+    'extension_order_email_content' => '                    <br><br>
+                    Extension Details: <br>
+                    &bull; Order ID: #:order_id <br>
+                    &bull; Service Name: :order_name <br>
+                    &bull; Previous Due date: :old_due_date <br>
+                    &bull; New Due date: :new_due_date <br><br>
+                    ',
+    'balance_update_by' => 'Balance updated by :auth_user_username',
+    'verify' => 'Verify',
+    'email_code' => 'Code:',
+    'node_has_been_stored' => 'Node configuration saved successfully',
+    'eggs' => 'Eggs',
+    'clear_pterodactyl_cache' => 'Pterodactyl cache for :items cleared successfully',
+    'clear_cache_desc' => 'We cache some API data that rarely changes for optimization. If you change the pterodactyl data, be sure to clear the cache',
+    'variables' => 'Variables',
+    'variables_save_success' => 'Variables saved successfully',
+    'clear_cache' => 'Clear Cache',
+    'pterodactyl_node_warn' => 'It is important that you do not have any node configured. For everything to work correctly, update the node settings',
+    'co_to_configure' => 'Go to configure:',
+    'warn' => 'WARNING!',
+    'nest' => 'Nest',
+    'pterodactyl_cache_btn_desc' => 'To add new variables, create them in the pterodactyl panel and click the button',
+    'available_placeholders' => 'Available placeholders:',
+    'variable' => 'Variable',
+    'key' => 'Key',
+    'value' => 'Value',
+    'uuid' => 'UUID',
+    'auto_ports' => 'Auto Ports',
+    'ports_range' => 'Ports Range',
+    'ip' => 'IP',
+    'pterodactyl_edit_node' => 'Edit Node',
+    'ports_rang_label' => 'The range of allowed ports',
+    'ports_rang_desc' => 'The range of allowed ports. For example: 49152-65535',
+    'allocation_addresses_label' => 'Allocation IP addresses',
+    'allocation_addresses_desc' => 'Specify here the real IP address of the allocation of this node',
+    'location_id' => 'Location ID',
+    'balance' => 'Balance',
+    'views' => 'views',
+    'clicks' => 'clicks',
+    'punishments' => 'Punishments',
+    'staff' => 'Staff',
+    'reason' => 'Reason',
+    'expires_in' => 'Expires In',
 );
