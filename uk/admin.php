@@ -634,5 +634,5 @@ return [
     'allocation_addresses_label' => 'Розподіл IP-адрес',
     'allocation_addresses_desc' => 'Вкажіть тут реальну IP-адресу розподілу цього вузла',
     'location_id' => 'ID Локації',
-    'default' => 'За замовчуванням', 
+    'default' => 'За замовчуванням',
 ];
