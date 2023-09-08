@@ -353,8 +353,8 @@
     'post_comment' => 'Post comment',
     'comment_settings' => 'Comment settings',
     'report' => 'Report',
-    'our_blog' => 'Our Blog',
-    'our_blog_desc' => 'We use an agile approach to test assumptions and connect with the needs of your audience early and often.',
+    'latest_news' => 'Latest News',
+    'latest_news_desc' => 'Stay up to date on what is going on in the community and new updates.',
     'read_more' => 'Read more',
     'news' => 'News',
 );
