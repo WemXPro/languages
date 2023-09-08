@@ -285,7 +285,7 @@
     'daily' => 'Diário',
     'editing_price_cycle' => 'Editando Ciclo de Preço',
     'per_client_stock' => 'Estoque por Cliente',
-    'global_stock_package_desc' => 'O estoque por cliente indica o limite de estoque por cliente. Defina como <code>-1</code> para permitir ilimitado',    
+    'global_stock_package_desc' => 'O estoque por cliente indica o limite de estoque por cliente. Defina como <code>-1</code> para permitir ilimitado',
     'global_stock' => 'Estoque Global',
     'package_description_example' => 'Separe cada recurso individual com a tag <code>[+]</code>. Exemplo: <code>8 GB RAM [+] 1 TB SSD [+] 2 TB de Largura de Banda</code>',
     'package_description' => 'Descrição do Pacote',
@@ -563,5 +563,6 @@
     'service_already_cancelled' => 'Este serviço já foi cancelado',
     'pay_cancellation_fee_cancel_service' => 'Por favor, pague a taxa de cancelamento para cancelar seu serviço.',
     'undo_canceled_resp' => 'O cancelamento foi desfeito, seu plano foi reiniciado',
-    'panel_login_mess' => 'Algo deu errado, entre em contato com um administrador.',    
+    'panel_login_mess' => 'Algo deu errado, entre em contato com um administrador.',
+    'default' => 'Default',
 );

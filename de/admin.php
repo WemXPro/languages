@@ -142,7 +142,7 @@
     'user_left' => 'verbeleibende Benutzungen',
     'important' => 'Wichtig',
     'important_emails_page' => '
-                Die SMTP-Daten werden in der Datei <code>:path</code> gespeichert. Zum Aktualisieren kannst du diese 
+                Die SMTP-Daten werden in der Datei <code>:path</code> gespeichert. Zum Aktualisieren kannst du diese
                 Datei bearbeiten und die entsprechenden Werte aktualisieren<br><br>
                 Du kannst einen internen SMTP-Server einrichten oder Dienste wie Google, MailGun, TrapMail usw. nutzen. <br>
                 Dokumentation: <a target=\'_blank\' href=\'https://docs.wemx.net/en/setup/mail-configuration\'>https://docs.wemx.net/en/setup/mail-configuration</a>',
@@ -214,7 +214,7 @@
     'package' => 'Packet',
     'user' => 'Benutzer',
     'create_instance_package_service_desc' => 'Wenn diese Option aktiviert ist, wird bei der Erstellung einer Bestellung auch eine
-                                        Instanz des Paketdienstes erstellt. Zum Beispiel, wenn der Paketdienst Pterodactyl ist, wird bei der Erstellung 
+                                        Instanz des Paketdienstes erstellt. Zum Beispiel, wenn der Paketdienst Pterodactyl ist, wird bei der Erstellung
                                         der Bestellung ein neuer Pterodactyl-Server erstellt.',
     'create_instance_package_service' => 'Erstelle eine Instanz des Paketdienstes',
     'last_renewed_at' => 'Zuletzt erneuert um',
@@ -223,7 +223,7 @@
     'terminated' => 'Beendet',
     'suspended' => 'Ausgesetzt',
     'active' => 'Aktiv',
-    'send_user_email_desc' => 'Aktivieren Sie diese Option, wenn Sie den Benutzer per E-Mail benachrichtigen möchten, 
+    'send_user_email_desc' => 'Aktivieren Sie diese Option, wenn Sie den Benutzer per E-Mail benachrichtigen möchten,
                             dass eine neue Bestellung für ihn erstellt worden ist.',
     'send_user_email' => 'E-Mail an Nutzer senden',
     'cancelled' => 'Abgebrochen',
@@ -240,10 +240,10 @@
     'suspend' => 'Aussetzten',
     'service_cancelled' => 'Dieser Dienst wurde storniert am',
     'price_data_warn_price' => 'Änder bitte keine Dienstleistungspreisdaten und fahre nur fort, wenn du sicher bist, was du tust und die Syntax kennst.',
-    'price_data_service_desc' => 'Über dieses Feld kannst du die Preisdaten für jeden Auftrag ändern. Um den Preis für einen bestimmten Zeitraum 
-                            (täglich, wöchentlich, Monatlich, vierteljährlich, jährlich) zu ändern, nehmen Sie Anpassungen am Wert 
-                            "Erneuerungspreis" vor. Der Wert "Periode" bestimmt die Dauer und wird in Tagen gemessen. 
-                            Verwenden Sie "1" für täglich, "7" für wöchentlich, "31" für monatlich, "93" für vierteljährlich und 
+    'price_data_service_desc' => 'Über dieses Feld kannst du die Preisdaten für jeden Auftrag ändern. Um den Preis für einen bestimmten Zeitraum
+                            (täglich, wöchentlich, Monatlich, vierteljährlich, jährlich) zu ändern, nehmen Sie Anpassungen am Wert
+                            "Erneuerungspreis" vor. Der Wert "Periode" bestimmt die Dauer und wird in Tagen gemessen.
+                            Verwenden Sie "1" für täglich, "7" für wöchentlich, "31" für monatlich, "93" für vierteljährlich und
                             "365" für jährlich. Alle anderen Zahlen stehen für benutzerdefinierte Zeiträume, die in Tagen gemessen werden.',
     'price_data' => 'Preisdaten',
     'cancelled_at_service_desc' => 'Das Datum, an dem der Service storniert werden soll. Nur ausfüllbar, wenn der Status storniert ist.',
@@ -252,7 +252,7 @@
     'cancel_service_modal_body' => 'Dieser Dienst hat eine Stornierungsgebühr von <a class="alert-link">:currency :price</a>
                                   - Die Stornierungsgebühr wird erlassen, wenn du mit der Stornierung unten fortfährst.',
     'order' => 'Bestellung',
-    'cancellation_confirm_order_warn' => 'Du bist im Begriff, diesen Dienst zu beenden. Durch die Beendigung werden möglicherweise alle Daten, 
+    'cancellation_confirm_order_warn' => 'Du bist im Begriff, diesen Dienst zu beenden. Durch die Beendigung werden möglicherweise alle Daten,
                                 einschließlich der Dateien oder Server von Anwendungen Dritter, gelöscht. Dieser Vorgang kann nicht rückgängig gemacht werden.',
     'cancellation_order_email_desc' => 'Lasse dieses Feld leer, wenn du dem Benutzer keine E-Mail über das neue Fälligkeitsdatum schicken willst.',
     'cancellation_reason_order_desc' => 'Beschreibung für die Stornierung',
@@ -334,7 +334,7 @@
     'basic_page_desc' => 'Basis-Seiten sind leere Seiten ohne HTML-Wrapper. Du kannst eignen HTML/Tailwind code einfügen.',
     'title' => 'Titel',
     'content' => 'Inhalt',
-    'page_content_desc' => 'Dieses Feld ist der benutzerdefinierte Inhalt, wie er auf der Seite angezeigt wird. 
+    'page_content_desc' => 'Dieses Feld ist der benutzerdefinierte Inhalt, wie er auf der Seite angezeigt wird.
         	            Es steht dir frei, benutzerdefinierten Code zu verwenden. zum Beispiel: <code>&lt;img src="path-to-image"&gt;</code>',
     'edit_page' => 'seite bearbeiten',
     'url' => 'URL',
@@ -578,4 +578,5 @@
     'pay_cancellation_fee_cancel_service' => 'Bitte zahlen Sie die Stornierungsgebühr, um den Service zu stornieren.',
     'undo_canceled_resp' => 'Die Stornierung wurde rückgängig gemacht, der Plan wurde neu gestartet',
     'panel_login_mess' => 'Etwas ist schief gelaufen, bitte kontaktiere einen Administrator.',
+    'default' => 'Default',
 );

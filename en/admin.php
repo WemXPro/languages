@@ -644,4 +644,7 @@
     'staff' => 'Staff',
     'reason' => 'Reason',
     'expires_in' => 'Expires In',
+    'punishments_on_record' => 'Punishments on record',
+    'history_of_punishments' => 'This user has a history of breaking the rules, they have a total of :number infraction(s).',
+    'default' => 'Default',
 );

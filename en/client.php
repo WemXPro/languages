@@ -342,4 +342,7 @@
     'account_suspended' => 'Your account has been suspended',
     'suspended_contact_for_information' => 'Your access to this application was revoked. If you believe this was an error, please contact us.',
     'reference_id' => 'Reference ID: ',
+    'apply' => 'Apply',
+    'affiliate_discount_info' => '<span class="font-medium">Affiliate Discount:</span> You were invited by an affiliate and receive a <strong>:percent%</strong> discount!',
+    'discount' => 'Discount',
 );

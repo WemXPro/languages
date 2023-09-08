@@ -571,4 +571,5 @@
     'pay_cancellation_fee_cancel_service' => 'Por favor, paga la tarifa de cancelación para cancelar tu servicio.',
     'undo_canceled_resp' => 'La cancelación se ha deshecho, tu plan se ha reiniciado',
     'panel_login_mess' => 'Algo salió mal, por favor contacta a un administrador.',
+    'default' => 'Default',
 );
