@@ -94,7 +94,7 @@
   'verify_code_app' => 'アプリでコードを確認する',
   'continue' => '続ける',
   'reauth' => '再認証',
-  're_authenticate_account_desc' => 'このコンテンツにアクセスするには、email: emailでアカウントを再認証してください。',
+  're_authenticate_account_desc' => 'このコンテンツにアクセスするには、:email emailでアカウントを再認証してください。',
   'your_password' => 'パスワード',
   'unlock' => 'アンロック',
   'join_discord' => 'Discordに参加する',
