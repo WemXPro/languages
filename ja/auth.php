@@ -7,7 +7,7 @@
   'reauth_unlocked_success' => 'アカウントがロック解除されました',
   'reauth_data_error' => '提供された認証情報がレコード内に存在しません',
   'reauth_perms_error' => 'このリソースにアクセスする権限がありません',
-  'authenticate_welcome' => 'ようこそ{名前}！',
+  'authenticate_welcome' => 'ようこそ :name',
   'authenticate_error' => 'ログイン情報が無効です',
   'registration_disable' => '登録が無効になっています',
   'registration_success' => 'ログインしました',
