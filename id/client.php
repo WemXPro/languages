@@ -38,8 +38,11 @@
   'checking_in' => 'Check In',
   'bitpave_payment_engine' => 'Didukung oleh mesin pembayaran Bitpave',
   'payment_details' => 'Detail Pembayaran',
-  'payment_total_is' => 'Total pembayaran Anda adalah $: untuk :untuk',
-  'bitpave_instruction' => '1. Buka aplikasi Dompet bitcoin Anda Atau Pindai kode QR<br>                    2. Kirim <u>persis</u> <strong>:harga</strong> BTC ke<strong>:dompet</strong><br>                    3. Anda selesai 🚀 🙌',
+  'payment_total_is' => 'Total pembayaran Anda adalah $:is untuk :for',
+  'bitpave_instruction' => '1. Buka aplikasi Wallet Bitcoin Anda atau Pindai kode QR<br>
+                            2. Kirim <u>tepat</u> <strong>:price</strong> BTC ke
+                            <strong>:wallet</strong><br>
+                            3. Anda selesai 🚀 🙌',
   'wallet' => 'Dompet',
   'bitcoin_amount' => 'Jumlah Bitcoin',
   'awaiting_payment' => 'Menunggu Pembayaran...',
@@ -275,7 +278,7 @@
   'general' => 'Umum',
   'renew' => 'Perpanjang',
   'ptero_alerts_suspended' => 'Layanan ini telah ditangguhkan',
-  'ptero_alerts_suspended_desc' => 'Tanggal jatuh tempo untuk layanan ini adalah pada  : due_date (:due_date_diff)<br><br> Kami menyesal memberi tahu Anda bahwa layanan Anda telah ditangguhkan karena pembayaran yang terlambat. Untuk menghindari penghentian, harap selesaikan faktur yang terutang dalam waktu : suspended_after hari sejak tanggal jatuh tempo. Jika pembayaran tidak diterima dalam jangka waktu ini, layanan Anda akan dihentikan, yang mengakibatkan penghapusan atau pencabutan semua data, file, dan lisensi terkait.',
+  'ptero_alerts_suspended_desc' => 'Tanggal jatuh tempo untuk layanan ini adalah pada  :due_date (:due_date_diff)<br><br> Kami menyesal memberi tahu Anda bahwa layanan Anda telah ditangguhkan karena pembayaran yang terlambat. Untuk menghindari penghentian, harap selesaikan faktur yang terutang dalam waktu :suspended_after hari sejak tanggal jatuh tempo. Jika pembayaran tidak diterima dalam jangka waktu ini, layanan Anda akan dihentikan, yang mengakibatkan penghapusan atau pencabutan semua data, file, dan lisensi terkait.',
   'important' => 'Penting',
   'ptero_alerts_cancelled' => 'Layanan ini telah dibatalkan',
   'ptero_alerts_cancelled_desc' => 'Layanan ini diatur untuk dibatalkan pada :cancelled_at (:cancelled_at_diff)<br><br> Jika Anda telah berubah pikiran, Anda dapat membatalkan pembatalan sebelum tanggal tersebut. Jika tidak ada tindakan yang diambil, layanan Anda akan ditangguhkan dan dihentikan. Semua file dan data milik layanan ini akan dihapus selamanya.',
@@ -288,7 +291,7 @@
   'cancel_plan' => 'Batalkan Skema',
   'ptero_cancellation_fee_info' => 'Penting!</span> Paket Anda sudah termasuk biaya pembatalan sebesar :symbol:cancellation_fee yang harus dibayar untuk membatalkan',
   'cancel_at_end_of_term' => 'Batalkan di akhir jangka waktu',
-  'service_cancelled_gracefully_at_due_date' => 'Layanan Anda akan dibatalkan dengan anggun pada tanggal jatuh tempo:: due_date',
+  'service_cancelled_gracefully_at_due_date' => 'Layanan Anda akan dibatalkan pada tanggal jatuh tempo :due_date',
   'cancel_immediately' => 'Batalkan segera',
   'cancel_immediately_desc' => 'Layanan Anda akan dibatalkan dalam 24 jam. <br>Semua file dan data yang dilampirkan ke layanan Anda akan segera dihapus.</p>',
   'cancellation_reason' => 'Alasan Pembatalan',
