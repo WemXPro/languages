@@ -128,7 +128,7 @@
   'resources' => 'Sumber daya',
   'legal' => 'Hukum',
   'all_rights_reserved' => 'Hak Cipta dilindungi Undang-Undang.',
-  'price_block_desc' => 'Pertama :period :symbol:total_price Lalu :symbol:renewal_price per :per_period',
+  'price_block_desc' => 'Pertama :period :symbol:total_price Lalu :symbol:renewal_price :per_period',
   'enter_domain' => 'Masukkan domain',
   'enter_domain_desc' => 'Silakan masukkan domain tempat Anda ingin menggunakan layanan ini.',
   'domain' => 'Domain',
