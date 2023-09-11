@@ -71,7 +71,7 @@
   'balance' => 'Saldo',
   'change_color' => 'Ubah warna',
   'customize_your_preference' => 'Sesuaikan dengan preferensi Anda',
-  'rose' => 'mawar',
+  'rose' => 'merah',
   'pink' => 'merah muda',
   'fuchsia' => 'fuchsia',
   'purple' => 'ungu',
@@ -86,7 +86,7 @@
   'lime' => 'hijau limau',
   'yellow' => 'kuning',
   'amber' => 'amber',
-  'orange' => 'oren',
+  'orange' => 'jeruk',
   'red' => 'merah',
   'stone' => 'batu',
   'neutral' => 'netral',
@@ -266,15 +266,37 @@
   'page_not_published' => 'Halaman belum dipublikasikan.',
   'email_new_device_subject' => 'Perangkat baru telah masuk ke akun :app_name Anda',
   'email_check_activity_btn' => 'Periksa aktivitas',
-  'email_add_device_content' => '<br><br>                Detail Perangkat : <br>                &bull; Perangkat: :device_name <br>                &bull; Tipe perangkat: :device_type <br>                &bull; IP Address: :ip_address <br>                &bull; Login Terakhir Pada: :last_login_at <br>                &bull; Agen pengguna: <code>:user_agent</code> <br><br>  device_name              Jika ini bukan Anda, segera mencabut akses ke perangkat ini & hubungi kami.',
+  'email_add_device_content' => '<br><br>
+      Detail Perangkat : <br>
+      &bull; Perangkat: :device_name <br>
+      &bull; Tipe perangkat: :device_type <br>
+      &bull; IP Address: :ip_address <br>
+      &bull; Login Terakhir Pada: :last_login_at <br>
+      &bull; Agen pengguna: <code>:user_agent</code> <br><br>
+      Jika ini bukan Anda, segera mencabut akses ke perangkat ini & hubungi kami.',
   'manage_service' => 'Kelola Layanan',
   'email_cancel_order_subject' => 'Layanan Anda telah dibatalkan',
-  'email_cancel_order_content' => '<br><br>            Detail Layanan: <br>            &bull; ID: #:id <br>            &bull; Nama Laynan: :name <br>            &bull; Masa tenggang sampai: :period <br>            &bull; Alasan Pembatalan: <code>:reason</code> <br><br>',
+  'email_cancel_order_content' => '<br><br>Detail Layanan: <br>
+        &bull; ID: #:id <br>
+        &bull; Nama Laynan: :name <br>
+        &bull; Masa tenggang sampai: :period <br>
+        &bull; Alasan Pembatalan: <code>:reason</code> <br><br>', 
   'email_payment_completed_subject' => 'Pembayaran telah dibayar',
   'email_payment_completed_button' => 'Lihat Faktur',
-  'email_payment_completed_content' => '<br><br>                Detail Pembayaran: <br>                &bull; ID Tran      Payment Details: <br>                &bull; Transaction ID: :id <br>                &bull; Payment Description: :description <br>                &bull; ID Transaksi: :id <br>                &bull; Deskripsi Pembayaran: :description <br>                &bull; Jumlah Pembayaran: :amount_rounded :currency <br>                &bull; Metode Pembayaran: :gateway_name <br><br>                Yakinlah bahwa pembayaran Anda telah diterapkan ke akun Anda, dan setiap faktur atau saldo terutang yang relevan telah diperbarui sebagaimana mestinya. <br>',
+  'email_payment_completed_content' => '<br><br>
+        Detail Pembayaran: <br>
+        &bull; ID Transaksi: :id <br>
+        &bull; Payment Description: :description <br>
+        &bull; Deskripsi Pembayaran: :description <br>
+        &bull; Jumlah Pembayaran: :amount_rounded :currency <br>
+        &bull; Metode Pembayaran: :gateway_name <br><br>
+        Yakinlah bahwa pembayaran Anda telah diterapkan ke akun Anda, dan setiap faktur atau saldo terutang yang relevan telah diperbarui sebagaimana mestinya. <br>',
   'email_payment_refunded_subject' => 'Memproses Pengembalian Uang',
-  'email_payment_refunded_content' => '<br><br>                Detail Pengembalian: <br>                &bull; ID Transaksi: :id <br>                &bull; Deskripsi Pembayaran: :description <br>                &bull; Jumlah Pengembalian: :amount_rounded :currency <br>                &bull; Dikembalikan Ke: :gateway_name <br><br>',
+  'email_payment_refunded_content' => '<br><br>Detail Pengembalian: <br>
+      &bull; ID Transaksi: :id <br>
+      &bull; Deskripsi Pembayaran: :description <br>
+      &bull; Jumlah Pengembalian: :amount_rounded :currency <br>
+      &bull; Dikembalikan Ke: :gateway_name <br><br>',
   'general' => 'Umum',
   'renew' => 'Perpanjang',
   'ptero_alerts_suspended' => 'Layanan ini telah ditangguhkan',
