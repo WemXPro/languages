@@ -189,7 +189,7 @@
   'connect' => 'Connect',
   'github_account' => 'Akun Github',
   'discord_account' => 'Akun Discord',
-  'enable' => 'Menyalakan',
+  'enable' => 'Aktifkan',
   'disable' => 'Nonaktifkan',
   'download' => 'Unduh',
   'sessions' => 'Sesi',
