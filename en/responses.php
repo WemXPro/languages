@@ -99,4 +99,7 @@
     'your_payment_failed' => 'Your account has insufficient balance to perform this purchase',
     'webhook_handled' => 'Webhook Handled',
     'refund_payment_notify' => 'Payment :payment_id was refunded to you.',
+    'account_has_punishments' => 'Your account has punishments in its history, contact our support team to have your account removed.',
+    'account_deleted_in_24_hours' => 'Your account will be deleted in 72 hours, you still have the option to undo this.',
+    'deletion_request_removed' => 'Your account deletion request has been removed.',
 );

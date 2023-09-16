@@ -366,5 +366,12 @@
     'view_cookies' => 'View Cookies',
     'accept_all' => 'Accept All',
     'reject_all' => 'Reject All',
-
+    'download_my_data' => 'Download my data',
+    'download_data_description' => 'We collect data to you provide with the our services. You can export your data that is stored by us at the exact moment of download.',
+    'delete_my_account' => 'Delete my account',
+    'delete_account_description' => 'You can request to have your account deleted from our platform, this action is irreversible. It permanently deletes your personal data, payments, and transaction history, cancels all orders, and forfeits your account balance, and any other data related to your account.',
+    'delete_account_disclosure' => 'I understand that my account data will be permanently deleted. There is no way to retrieve my data after it has been deleted, even by administrators.',
+    'delete_account' => 'Delete Account',
+    'perm_account_deletion' => 'Permanent Account Deletion Requested',
+    'account_deleted_alert' => 'Your account will be permanently deleted from our platform in :time , click "cancel" to undo this request.',
 );
