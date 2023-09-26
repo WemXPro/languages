@@ -663,7 +663,7 @@
     'unban' => 'Unban',
     'warnings' => 'Warnings',
     'no_bans_found' => 'No bans found',
-    'no_bans_found_desc' => 'Good news, we haven\\',
+    'no_bans_found_desc' => 'Good news, we haven\'t found any bans',
     'no_warnings_found' => 'No warnings found',
-    'no_warnings_found_desc' => 'Good news, we haven\\',
+    'no_warnings_found_desc' => 'Good news, we haven\'t found any warnings',
 );
