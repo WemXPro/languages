@@ -666,4 +666,11 @@
     'no_bans_found_desc' => 'Good news, we haven\'t found any bans',
     'no_warnings_found' => 'No warnings found',
     'no_warnings_found_desc' => 'Good news, we haven\'t found any warnings',
+    'downloaded_file_not_zip' => 'The downloaded file is not a zip archive. Content-Type: :content_type',
+    'unable_create_temporary_file' => 'Unable to create temporary file.',
+    'unable_write_temporary_file' => 'Unable to write to temporary file :temp_file.',
+    'could_not_open_zip' => 'Could not open zip archive: :temp_file.',
+    'unable_open_zip' => 'Unable to open zip archive: :zip_path.',
+    'unable_open_sub_archive' => 'Unable to open sub-archive: :path.',
+
 );
