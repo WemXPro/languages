@@ -673,7 +673,7 @@
     'unable_open_zip' => 'Unable to open zip archive: :zip_path.',
     'unable_open_sub_archive' => 'Unable to open sub-archive: :path.',
     'author' => 'Author',
-    'wemx_version' => 'Wemx_version',
+    'wemx_version' => 'Wemx version',
     'free' => 'Free',
     'resource_installed_success' => 'The resource has been successfully installed',
 );
