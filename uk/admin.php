@@ -638,4 +638,7 @@
     'could_not_open_zip' => 'Не вдалося відкрити zip-архів: :temp_file.',
     'unable_open_zip' => 'Неможливо відкрити zip-архів: :zip_path.',
     'unable_open_sub_archive' => 'Неможливо відкрити підархів: :path.',
+    'author' => 'Автор',
+    'wemx_version' => 'Wemx версія',
+    'free' => 'Безкоштовно',
 );
