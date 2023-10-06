@@ -641,4 +641,5 @@
     'author' => 'Автор',
     'wemx_version' => 'Wemx версія',
     'free' => 'Безкоштовно',
+    'resource_installed_success' => 'Ресурс успішно встановлено'
 );
