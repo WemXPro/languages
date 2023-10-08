@@ -643,4 +643,5 @@
     'free' => 'Безкоштовно',
     'resource_installed_success' => 'Ресурс успішно встановлено',
     'purchased' => 'Придбаний',
+    'installed' => 'Встановлено',
 );
