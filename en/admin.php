@@ -511,7 +511,7 @@
     'auth_page_title' => 'Auth page title',
     'auth_page_description' => 'Auth page description',
     'auth_page_customers' => 'Auth page customers',
-    'quaterly' => 'Quaterly',
+    'quaterly' => 'Quarterly',
     'pterodactyl_id' => 'Pterodactyl ID',
     'stock' => 'Stock',
     'locations' => 'Locations',
