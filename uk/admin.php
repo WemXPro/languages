@@ -658,4 +658,7 @@
     'installing_update' => 'Встановлення оновлення',
     'installing_update_warn' => 'Важливо створити резервну копію файлів і бази даних на випадок непередбачених подій.',
     'no_changelog_provided' => 'Журнал змін не надано',
+    'preparing_for_installation' => 'Підготовка до встановлення',
+    'installation_started_please_wait' => 'Встановлення розпочато, зачекайте...',
+    'failed_connect_remove_server_please_try_again' => 'Не вдалося підключитися для видалення сервера, повторіть спробу.',
 );

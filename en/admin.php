@@ -692,4 +692,7 @@
     'installing_update' => 'Installing Update',
     'installing_update_warn' => 'It\'s important that you create a backup of files as well as the database if an unforeseen event is to happen.',
     'no_changelog_provided' => 'No changelog provided',
+    'preparing_for_installation' => 'Preparing for installation',
+    'installation_started_please_wait' => 'Installation started, please wait...',
+    'failed_connect_remove_server_please_try_again' => 'Failed to connect to remove server, please try again.',
 );
