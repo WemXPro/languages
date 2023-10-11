@@ -661,4 +661,12 @@
     'preparing_for_installation' => 'Підготовка до встановлення',
     'installation_started_please_wait' => 'Встановлення розпочато, зачекайте...',
     'failed_connect_remove_server_please_try_again' => 'Не вдалося підключитися для видалення сервера, повторіть спробу.',
+    'downloading_latest_assets' => 'Завантаження останніх ресурсів',
+    'unpacking_files_downloading_dependencies' => 'Розпакування файлів і завантаження залежностей',
+    'clearing_cache_optimizing_application' => 'Очищення кешу та оптимізація програми',
+    'migrating_seeding_database' => 'База даних міграції та заповнення',
+    'installed_successfully_please_refresh_page' => 'Оновлення успішно встановлено, будь ласка, оновіть цю сторінку.',
+    'updater_requires_root_user_permissions' => 'Помилка оновлення: програмі оновлення потрібні права користувача root. Оновіть crontab як користувач root',
+    'update_failed' => 'Помилка оновлення: ',
+    'failed_connect_remote_server_try_again' => 'Не вдалося підключитися до віддаленого сервера, повторіть спробу.',
 );

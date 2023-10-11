@@ -695,4 +695,12 @@
     'preparing_for_installation' => 'Preparing for installation',
     'installation_started_please_wait' => 'Installation started, please wait...',
     'failed_connect_remove_server_please_try_again' => 'Failed to connect to remove server, please try again.',
+    'downloading_latest_assets' => 'Downloading latest assets',
+    'unpacking_files_downloading_dependencies' => 'Unpacking files & Downloading dependencies',
+    'clearing_cache_optimizing_application' => 'Clearing Cache & Optimizing application',
+    'migrating_seeding_database' => 'Migrating and Seeding Database',
+    'installed_successfully_please_refresh_page' => 'Update installed successfully, please refresh this page.',
+    'updater_requires_root_user_permissions' => 'Update Failed: The updater requires root user permissions. Update the crontab as root user',
+    'update_failed' => 'Update Failed: ',
+    'failed_connect_remote_server_try_again' => 'Failed to connect to remote server, please try again.',
 );
