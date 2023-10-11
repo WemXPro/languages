@@ -376,4 +376,5 @@
     'account_deleted_alert' => 'Your account will be permanently deleted from our platform in :time , click "cancel" to undo this request.',
     'i_accept_the' => 'I accept the',
     'terms_and_conditions' => 'Terms and Conditions',
+    'explore_plans' => 'Explore Plans',
 );
