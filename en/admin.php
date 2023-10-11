@@ -479,7 +479,7 @@
     'packages_not_found_desc' => 'There are currently no packages created',
     'inactive' => 'Inactive',
     'never' => 'never',
-    'Group Permissions' => 'Group Permissions',
+    'group_permissions' => 'Group Permissions',
     'resolve' => 'Resolve',
     'maintenance_mode_desc' => 'Maintenance mode is active, you are currently bypassing maintenance mode',
     'maintenance_disable_button' => 'Disable Maintenance Mode',
