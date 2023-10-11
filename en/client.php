@@ -377,4 +377,6 @@
     'i_accept_the' => 'I accept the',
     'terms_and_conditions' => 'Terms and Conditions',
     'explore_plans' => 'Explore Plans',
+    'filter' => 'Filter',
+    'filter_status' => 'Filter status',
 );
