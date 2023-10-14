@@ -703,4 +703,6 @@
     'updater_requires_root_user_permissions' => 'Update Failed: The updater requires root user permissions. Update the crontab as root user',
     'update_failed' => 'Update Failed: ',
     'failed_connect_remote_server_try_again' => 'Failed to connect to remote server, please try again.',
+    'translations' => 'Translations',
+    'create_translation' => 'Create a translation',
 );
