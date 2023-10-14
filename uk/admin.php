@@ -688,4 +688,6 @@
   'updater_requires_root_user_permissions' => 'Помилка оновлення: програмі оновлення потрібні права користувача root. Оновіть crontab як користувач root',
   'update_failed' => 'Помилка оновлення:',
   'failed_connect_remote_server_try_again' => 'Не вдалося підключитися до віддаленого сервера, повторіть спробу.',
+  'translations' => 'Переклади',
+  'create_translation' => 'Створити переклад',
 );
