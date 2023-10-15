@@ -118,4 +118,5 @@
     'two_factor_authentication' => 'Two Factor Authentication',
     '2fa_code' => '2FA Code',
     'verify_2fa_code' => 'Verify 2FA',
+    'log_in' => 'Log in'
 );
