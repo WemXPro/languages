@@ -402,7 +402,6 @@
     'track_users_invited_by_affiliates' => 'Track users invited by affiliates',
     'keep_track_of_affiliate_invites' => 'Keep track of affiliate invites',
     'follow' => 'Follow',
-    'opensource_contributor_building_flowbitecom' => 'Open-source contributor. Building <a href="#" class="text-blue-600 dark:text-blue-500 hover:underline">flowbite.com</a>.',
     'following' => 'Following',
     'followers' => 'Followers',
     'powered_by' => 'Powered by',
