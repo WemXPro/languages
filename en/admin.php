@@ -541,7 +541,7 @@
     'swap' => 'Swap',
     'swap_desc' => 'Setting this to 0 will disable swap space on this server. Setting to -1 will allow unlimited swap.',
     'block_io_weight' => 'Block IO Weight',
-    'block_io_weight_desc' => 'Advanced: The IO performance of this server relative to other <em>running</em> containers on the system. Value should be between <code>10</code> and <code>1000</code>. Please see<a href="https://docs.docker.com/engine/reference/run/#block-io-bandwidth-blkio-constraint" target="_blank">this documentation</a> for more information about it.',
+    'block_io_weight_desc' => 'Advanced: The IO performance of this server relative to other <em>running</em> containers on the system. Value should be between <code>10</code> and <code>1000</code>. Please see <a href="https://docs.docker.com/engine/reference/run/#block-io-bandwidth-blkio-constraint" target="_blank">this documentation</a> for more information about it.',
     'enable_oom_killer' => 'Enable OOM Killer',
     'enable_oom_killer_desc' => 'Terminates the server if it breaches the memory limits.',
     'allowed_locations' => 'Allowed Locations',

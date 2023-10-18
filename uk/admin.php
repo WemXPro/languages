@@ -529,7 +529,7 @@
   'swap' => 'Swap',
   'swap_desc' => 'Встановлення цього на 0 вимкне область обміну на цьому сервері. Встановлення на -1 дозволить необмежену область обміну.',
   'block_io_weight' => 'Block IO',
-  'block_io_weight_desc' => 'Розширено: Продуктивність IO цього сервера відносно інших <em>запущених</em> контейнерів на системі. Значення має бути між <code>10</code> та <code>1000</code>.        Будь ласка, перегляньте<a href="https://docs.docker.com/engine/reference/run/#block-io-bandwidth-blkio-constraint" target="_blank">цю документацію</a>        для отримання більш детальної інформації про це.',
+  'block_io_weight_desc' => 'Розширено: Продуктивність IO цього сервера відносно інших <em>запущених</em> контейнерів на системі. Значення має бути між <code>10</code> та <code>1000</code>.        Будь ласка, перегляньте <a href="https://docs.docker.com/engine/reference/run/#block-io-bandwidth-blkio-constraint" target="_blank">цю документацію</a>        для отримання більш детальної інформації про це.',
   'enable_oom_killer' => 'Увімкнути OOM Killer',
   'enable_oom_killer_desc' => 'Завершує роботу сервера, якщо він перевищує ліміти пам\'яті.',
   'allowed_locations' => 'Дозволені локації',
