@@ -790,5 +790,8 @@
     'disable_debug_mode_immediately_if_your_application' => 'Disable <strong>debug mode</strong> immediately if your application is in production for security reasons! To disable, edit file :base_path and set <code>APP_DEBUG</code> to <code>false</code>',
     'desing_by' => 'Design By',
     'copyright' => 'Copyright',
-    'days' => 'days'
+    'days' => 'days',
+    'uses' => 'Uses',
+    'no_tickets_desc' => 'This user has no tickets in history',
+    'no_tickets' => 'No Active Tickets',
 );
