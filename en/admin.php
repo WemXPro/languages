@@ -789,5 +789,6 @@
     'cronjobs_are_not_running_add_php_artisan_scheduler' => 'Cronjobs are not running! Add <code>* * * * * php :base_path/artisan schedule:run >> /dev/null 2>&1</code> to your cron list',
     'disable_debug_mode_immediately_if_your_application' => 'Disable <strong>debug mode</strong> immediately if your application is in production for security reasons! To disable, edit file :base_path and set <code>APP_DEBUG</code> to <code>false</code>',
     'desing_by' => 'Design By',
-    'copyright' => 'Copyright'
+    'copyright' => 'Copyright',
+    'days' => 'days'
 );

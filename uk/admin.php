@@ -756,4 +756,5 @@
   'disable_debug_mode_immediately_if_your_application' => 'З міркувань безпеки негайно вимкніть <strong>режим налагодження</strong>, якщо ваша програма знаходиться у робочому стані! Щоб вимкнути, відредагуйте файл :base_path і встановіть <code>APP_DEBUG</code> на <code>false</code>',
   'desing_by' => 'Дизайн від',
   'copyright' => 'Авторське право',
+  'days' => 'днів'
 );
