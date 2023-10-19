@@ -255,7 +255,7 @@
     'cancellation_order_email_desc' => 'Leave this field empty to not send the user an email notifying them of the new due date.',
     'cancellation_reason_order_desc' => 'The reason for the cancellation',
     'cancellation_reason' => 'Cancellation Reason',
-    'cancel_immediately_order_desc' => 'The service will be cancelled within 24 hours. <br> All files and data attached to your service will be deleted right away.',
+    'cancel_immediately_order_desc' => 'The service will be cancelled after 24 hours. <br> All data attached to your service will be deleted a week after cancellation.',
     'cancel_immediately' => 'Cancel immediately',
     'cancel_at_end_of_term_order_desc' => 'The service will be cancelled gracefully at the due date: :date',
     'cancel_at_end_of_term' => 'Cancel at end of term',
