@@ -795,4 +795,5 @@
     'no_tickets_desc' => 'This user has no tickets in history',
     'no_tickets' => 'No Active Tickets',
     'order_changed' => 'Order changed successfully',
+    'order_changed_error' => 'Invalid direction specified',
 );
