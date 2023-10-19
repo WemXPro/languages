@@ -148,7 +148,7 @@
     'complete_checkout' => 'Complete Checkout',
     'selected_price_includes_cancellation_fee' => '*Selected price cycle includes a cancellation fee of',
     'setup_fee' => 'Setup fee',
-    'payment_canceled' => 'Payment Canceled',
+    'payment_canceled' => 'Payment Cancelled',
     'payment_canceled_desc' => 'Your Payment was cancelled, please try again.',
     'back_dashboard' => 'Back to Dashboard',
     'view_invoice' => 'View Invoice',
