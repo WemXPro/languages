@@ -83,7 +83,7 @@
     'order_update_due_date_success' => 'Order :name due date has been updated successfully.',
     'service_action_completed' => 'Service action :action has been completed',
     'service_error_cancelled' => 'Service cancellation error',
-    'service_success_cancelled' => 'Service canceled successfully',
+    'service_success_cancelled' => 'Service cancelled successfully',
     'group_update_success' => 'The group has been updated successfully',
     'enable_two_factor' => 'Two factor authentication is already enabled for your account.',
     'disable_two_factor' => 'Two Factor Authentication has been disabled.',
