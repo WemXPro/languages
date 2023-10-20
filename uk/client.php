@@ -394,5 +394,6 @@
   'sidebar' => 'Бічна панель',
   'settings_page' => 'Сторінка налаштувань',
   'toggle_darkmode' => 'Увімкнути/вимкнути темний режим',
-  'no_access_email_download' => 'Ви не маєте доступу до цього ресурсу'
+  'no_access_email_download' => 'Ви не маєте доступу до цього ресурсу',
+  'copied_successfully' => 'Успішно скопійовано'
 );

@@ -424,5 +424,6 @@
     'sidebar' => 'Sidebar',
     'settings_page' => 'Settings page',
     'toggle_darkmode' => 'Toggle Darkmode',
-    'no_access_email_download' => 'You don\'t have access to this resource'
+    'no_access_email_download' => 'You don\'t have access to this resource',
+    'copied_successfully' => 'Copied successfully'
 );
