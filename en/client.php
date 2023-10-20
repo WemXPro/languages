@@ -321,7 +321,7 @@
     'cancel_at_end_of_term' => 'Cancel at end of term',
     'service_cancelled_gracefully_at_due_date' => 'Your service will be cancelled gracefully at the due date: :due_date',
     'cancel_immediately' => 'Cancel immediately',
-    'cancel_immediately_desc' => 'Your service will be cancelled within 24 hours. <br>All files and data attached to your service will be deleted right away.</p>',
+    'cancel_immediately_desc' => 'Your service will be cancelled within 24 hours. <br>All files and data attached to your service will be deleted right away.',
     'cancellation_reason' => 'Cancellation Reason',
     'payment_method_reason' => 'Payment Method Reason',
     'pay_with_balance' => 'Pay with Balance',
