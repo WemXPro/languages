@@ -734,6 +734,7 @@
     'event' => 'Event',
     'creation' => 'Creation',
     'renewal' => 'Renewal',
+    'upgrade' => 'Upgrade',
     'suspension' => 'Suspension',
     'unsuspension' => 'Unsuspension',
     'cancellation' => 'Cancellation',
