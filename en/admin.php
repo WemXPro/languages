@@ -713,7 +713,6 @@
     'unlisted_only_users_with_direct_link_can_view' => 'Unlisted (only users with direct link can view)',
     'admin_only_only_administrators_can_view' => 'Admin Only (only administrators can view)',
     'retired_inactive_package_will_not_be_shown_to_new' => 'Retired / Inactive (package will not be shown to new customers)',
-    'separate_each_individual_feature_with_the_tag_exam' => 'Separate each individual feature with the <code>[+]</code> tag. Example: <code>8 GB RAM [+] 1 TB SSD [+] 2 TB Bandwith</code>',
     'client_stock_indicates_the_stock_limit_per_client' => 'Client stock indicates the stock limit per client. Set to <code>-1</code> to allow unlimited',
     'does_this_package_require_the_user_to_have_domain' => 'Does this package require the user to have a domain?',
     'allow_notes' => 'Allow Notes',
