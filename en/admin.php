@@ -698,6 +698,7 @@
     'downloading_latest_assets' => 'Downloading latest assets',
     'unpacking_files_downloading_dependencies' => 'Unpacking files & Downloading dependencies',
     'clearing_cache_optimizing_application' => 'Clearing Cache & Optimizing application',
+    'updating_module_dependencies' => 'Updating Module dependencies',
     'migrating_seeding_database' => 'Migrating and Seeding Database',
     'installed_successfully_please_refresh_page' => 'Update installed successfully, please refresh this page.',
     'updater_requires_root_user_permissions' => 'Update Failed: The updater requires root user permissions. Update the crontab as root user',
