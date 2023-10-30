@@ -436,8 +436,8 @@
     'toggle_darkmode' => 'Toggle Darkmode',
     'no_access_email_download' => 'You don\'t have access to this resource',
     'copied_successfully' => 'Copied successfully',
-    'account' => 'Account',
+    'service_account' => ':service Account',
     'change_password' => 'Change Password',
     'change_service_password' => 'Change your :service password',
-
+    'cancel_subscription_to_continue' => 'You must cancel your subscription to perform this action.',
 );
