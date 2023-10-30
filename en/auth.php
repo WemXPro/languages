@@ -25,6 +25,8 @@
     'oauth_discord_verified_error' => 'Your Discord account is not verified.',
     'password' => 'Password',
     'confirm_password' => 'Confirm password',
+    'new_password' => 'New Password',
+    'confirm_new_password' => 'Confirm New Password',
     'email_verification' => 'Email Verification',
     'info' => 'Info',
     'activate' => 'Activate',
