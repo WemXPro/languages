@@ -407,6 +407,7 @@
     'api_authentication' => 'API authentication',
     'toggle_me' => 'Toggle me',
     'set_preffered_order_status' => 'Set preffered order status',
+    'order_must_be_active' => 'Your order status must be active to perform this action',
     'collect_article_feedback' => 'Collect Article Feedback',
     'affiliate' => 'affiliate',
     'track_users_invited_by_affiliates' => 'Track users invited by affiliates',
