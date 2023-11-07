@@ -141,6 +141,7 @@
     'legal' => 'Legal',
     'all_rights_reserved' => 'All Rights Reserved.',
     'price_block_desc' => 'First :period :symbol:total_price then :symbol:renewal_price per :per_period',
+    'price_onetime_block_desc' => 'You pay :symbol:price once to get access forever',
     'enter_domain' => 'Enter domain',
     'enter_domain_desc' => 'Please enter the domain where you want to use this service.',
     'domain' => 'Domain',
