@@ -32,6 +32,7 @@
     'refunded' => 'Refunded',
     'actions' => 'Actions',
     'no_records_found' => ' No records found',
+    'no_records_found_description' => "You don't have any :object, new :object will appear here",
     'no_record_found_desc' => 'You have not yet :paid any invoices, :paid invoices will appear here',
     'invoice' => 'Invoice',
     'payment_not_received' => 'Payment has not yet been received.',
@@ -442,4 +443,7 @@
     'change_password' => 'Change Password',
     'change_service_password' => 'Change your :service password',
     'cancel_subscription_to_continue' => 'You must cancel your subscription to perform this action.',
+    'members' => 'Members',
+    'invites' => 'Invites',
+    'invited_by' => 'Invited by',
 );
