@@ -446,4 +446,10 @@
     'members' => 'Members',
     'invites' => 'Invites',
     'invited_by' => 'Invited by',
+    'member_invite_email_subject' => ':user invited you to :service',
+    'member_invite_email_content' => 'You were invited to join service <strong>:service</strong> by :user. Click the button below to view your current invitations and manage them.',
+    'member_invite_email_content_guest' => 'Your account with this email is currently not registered with us, please register with email <strong>:email</strong>, after registering you can click the button below to manage the invitation.',
+    'view_invitation' => 'View invitation',
+    'contact_us_success_subject' => 'Your contact submission was received 🎉',
+    'contact_us_success_content' => 'Thank you for contacting us. We have received your contact submission titled: ":subject". Our team will try our best to get back to you as soon as possible.',
 );
