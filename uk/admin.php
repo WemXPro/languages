@@ -762,4 +762,9 @@
   'no_tickets' => 'Немає активних квитків',
   'order_changed' => 'Порядок успішно змінено',
   'order_changed_error' => 'Вказано недійсний напрямок',
+  'single' => 'Single',
+  'once' => 'Один раз',
+  'just_once' => 'Тільки один раз',
+  'updating_module_dependencies' => 'Оновлення залежностей модуля',
+  'upgrade' => 'Оновлення',
 );
