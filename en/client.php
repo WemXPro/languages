@@ -452,4 +452,8 @@
     'view_invitation' => 'View invitation',
     'contact_us_success_subject' => 'Your contact submission was received 🎉',
     'contact_us_success_content' => 'Thank you for contacting us. We have received your contact submission titled: ":subject". Our team will try our best to get back to you as soon as possible.',
+    'personal_details' => 'Personal details',
+    'personal_details_desc' => 'Please enter your personal details',
+    'custom_options' => 'Custom Options',
+    'custom_options_desc' => 'Customize your service options for your package',
 );
