@@ -456,4 +456,5 @@
     'personal_details_desc' => 'Please enter your personal details',
     'custom_options' => 'Custom Options',
     'custom_options_desc' => 'Customize your service options for your package',
+    'games' => 'Games',
 );
