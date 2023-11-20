@@ -800,4 +800,5 @@
     'no_tickets' => 'No Active Tickets',
     'order_changed' => 'Order changed successfully',
     'order_changed_error' => 'Invalid direction specified',
+    'reinstall' => 'Reinstall',
 );

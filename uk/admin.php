@@ -767,4 +767,5 @@
   'just_once' => 'Тільки один раз',
   'updating_module_dependencies' => 'Оновлення залежностей модуля',
   'upgrade' => 'Оновлення',
+  'reinstall' => 'Перевстановити',
 );
