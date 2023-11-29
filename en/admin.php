@@ -801,4 +801,9 @@
     'order_changed' => 'Order changed successfully',
     'order_changed_error' => 'Invalid direction specified',
     'reinstall' => 'Reinstall',
+    'terminate_order_after_days' => 'Terminate orders after days',
+    'maxmimum_members_per_order' => 'Maximum allowed members per order',
+    'seo' => 'SEO',
+    'keywords' => 'Keywords',
+
 );

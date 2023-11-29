@@ -155,7 +155,7 @@ return [
     'back_dashboard' => 'Voltar para o Painel',
     'view_invoice' => 'Ver fatura',
     'pricing' => 'Preços',
-    'pricing_for' => 'Preços para',
+    'pricing_for_service' => 'Preços para :service',
     'get_started' => 'Começar',        
     'payment_successfully' => 'Pagamento realizado com sucesso',
     'payment_successfully_desc' => 'Obrigado por concluir o pagamento, estamos preparando tudo para você.',

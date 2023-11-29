@@ -152,7 +152,7 @@
   'back_dashboard' => 'Повернутись до панелі керування',
   'view_invoice' => 'Переглянути рахунок',
   'pricing' => 'Ціноутворення',
-  'pricing_for' => 'Ціноутворення для',
+  'pricing_for_service' => 'Ціноутворення для :service',
   'get_started' => 'Почати',
   'payment_successfully' => 'Оплата успішна',
   'payment_successfully_desc' => 'Дякуємо вам за завершення оплати, ми готуємо все для вас.',

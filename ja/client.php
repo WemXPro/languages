@@ -153,7 +153,7 @@ return array(
     'back_dashboard' => 'ダッシュボードに戻る',
     'view_invoice' => '請求書を表示',
     'pricing' => '価格',
-    'pricing_for' => '価格',
+    'pricing_for_service' => '価格 :service',
     'get_started' => '始める',
     'payment_successfully' => '支払いが成功しました',
     'payment_successfully_desc' => '支払いが正常に完了しました。すべての準備が整っています。',

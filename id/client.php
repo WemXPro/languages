@@ -153,7 +153,7 @@
   'back_dashboard' => 'Kembali ke Dasbor',
   'view_invoice' => 'Lihat Faktur',
   'pricing' => 'Harga',
-  'pricing_for' => '>Harga untuk',
+  'pricing_for_service' => 'Harga untuk :service',
   'get_started' => 'Beli',
   'payment_successfully' => 'Pembayaran Berhasil',
   'payment_successfully_desc' => 'Terima kasih telah menyelesaikan pembayaran, kami sedang menyiapkan segalanya untuk Anda.',

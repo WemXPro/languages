@@ -164,7 +164,7 @@ return [
     'back_dashboard' => 'Volver al panel de control',
     'view_invoice' => 'Ver factura',
     'pricing' => 'Precios',
-    'pricing_for' => 'Precios para',
+    'pricing_for_service' => 'Precios para :service',
     'get_started' => 'Empezar',
     'payment_successfully' => 'Pago realizado con éxito',
     'payment_successfully_desc' => 'Gracias por completar el pago, estamos preparando todo para ti.',

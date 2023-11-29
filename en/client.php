@@ -164,7 +164,7 @@
     'back_dashboard' => 'Back to Dashboard',
     'view_invoice' => 'View Invoice',
     'pricing' => 'Pricing',
-    'pricing_for' => '>Pricing for',
+    'pricing_for_service' => 'Pricing for :service',
     'get_started' => 'Get started',
     'payment_successfully' => 'Payment Successfully',
     'payment_successfully_desc' => 'Thank you for completing the payment, we are getting everything ready for you.',
