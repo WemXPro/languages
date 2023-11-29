@@ -768,4 +768,8 @@
   'updating_module_dependencies' => 'Оновлення залежностей модуля',
   'upgrade' => 'Оновлення',
   'reinstall' => 'Перевстановити',
+  'terminate_order_after_days' => 'Зупинити замовлення через? (дні)',
+  'maxmimum_members_per_order' => 'Максимально дозволена кількість учасників на замовлення',
+  'seo' => 'SEO',
+  'keywords' => 'Ключові слова',
 );
