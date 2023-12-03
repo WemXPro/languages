@@ -762,7 +762,7 @@
   'no_tickets' => 'Немає активних квитків',
   'order_changed' => 'Порядок успішно змінено',
   'order_changed_error' => 'Вказано недійсний напрямок',
-  'single' => 'Single',
+  'single' => 'Одноразовий',
   'once' => 'Один раз',
   'just_once' => 'Тільки один раз',
   'updating_module_dependencies' => 'Оновлення залежностей модуля',
@@ -770,7 +770,6 @@
   'reinstall' => 'Перевстановити',
   'terminate_order_after_days' => 'Зупинити замовлення через? (дні)',
   'maxmimum_members_per_order' => 'Максимально дозволена кількість учасників на замовлення',
-  'seo' => 'SEO',
   'keywords' => 'Ключові слова',
   'online_users' => 'Користувачі онлайн',
 );
