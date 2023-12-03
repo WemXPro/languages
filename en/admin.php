@@ -805,5 +805,5 @@
     'maxmimum_members_per_order' => 'Maximum allowed members per order',
     'seo' => 'SEO',
     'keywords' => 'Keywords',
-
+    'online_users' => 'Online users',
 );
