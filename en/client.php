@@ -359,6 +359,8 @@
     'discount' => 'Discount',
     'administrator' => 'Administrator',
     'was_this_article_helpful' => 'Was this article helpful?',
+    'no_new_articles' => 'Articles haven\'t been published',
+    'no_new_articles_desc' => 'We could not find any articles, new articles will appear here',
     'thank_you_your_feedback' => 'Thank you for your feedback',
     'discussion' => 'Discussion',
     'your_comment' => 'Your comment',
