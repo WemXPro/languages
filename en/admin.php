@@ -184,7 +184,7 @@
     'email_service_suspended_desc' => ' ',
     'developed_by' => 'developed by',
     'email_templates' => 'Email Templates',
-    'are_you_sure' => 'Are_you_sure',
+    'are_you_sure' => 'Are you sure',
     'gateway_display_name_desc' => 'This is the name of the gateway displayed to users',
     'refund_support_title' => 'Refund Support',
     'admin' => 'Admin',
