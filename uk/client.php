@@ -429,4 +429,5 @@
   'change_password' => 'Змінити пароль',
   'change_service_password' => 'Змінити пароль служби :service',
   'cancel_subscription_to_continue' => 'Щоб виконати цю дію, потрібно скасувати підписку.',
+  'node_full' => 'Node повний. Повідомте про це адміністратораr',
 );

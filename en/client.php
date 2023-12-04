@@ -459,4 +459,5 @@
     'custom_options' => 'Custom Options',
     'custom_options_desc' => 'Customize your service options for your package',
     'games' => 'Games',
+    'node_full' => 'The node is full. Report this to an administrator',
 );
