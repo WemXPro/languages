@@ -122,5 +122,6 @@
     'verify_2fa_code' => 'Verify 2FA',
     'log_in' => 'Log in',
     'password_reset' => 'Password Reset',
-    'password_reset_content' => 'You have requested a password reset token'
+    'password_reset_content' => 'You have requested a password reset token',
+    'view_2fa_secretcode' => 'Hover over the QR-code to view the 2FA code to manually enter into your favorite authenticator',
 );
