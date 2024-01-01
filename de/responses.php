@@ -96,5 +96,5 @@
     'your_payment_completed' => 'Ihre Zahlung wurde abgeschlossen',
     'your_payment_failed' => 'Dein Konto hat nicht genügend Guthaben, um diesen Kauf durchzuführen.',
     'webhook_handled' => 'Webhook verarbeitet',
-    'refund_payment_notify' => 'Die Zahlung :payment_id wurde an dich zurückerstattet.',
+    'refund_payment_notify' => 'Die Zahlung :payment_id wurde an dich zurückerstattet.'
 );
