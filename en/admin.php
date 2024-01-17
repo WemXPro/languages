@@ -395,7 +395,7 @@
     'require_address_information_desc' => 'After login in, users will be forced to complete their address information.',
     'require_address_information' => 'Require Address Information',
     'registrations_Select_method' => 'Select the activation method for new registrations',
-    'email_verification_approval' => 'Email verification and Admin Approval',
+    'email_verification_approval' => 'Manual Admin Approval',
     'registration_settings' => 'Registration Settings',
     'registration' => 'Registration',
     'registrations_enable_desc' => 'Do you want to enable user registrations',
