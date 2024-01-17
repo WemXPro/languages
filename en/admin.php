@@ -808,4 +808,5 @@
     'online_users' => 'Online users',
     'available_disk' => 'Available Disk',
     'available_memory' => 'Available Memory',
+    'api_tokens' => 'API Tokens',
 );
