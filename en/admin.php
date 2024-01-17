@@ -806,4 +806,6 @@
     'seo' => 'SEO',
     'keywords' => 'Keywords',
     'online_users' => 'Online users',
+    'available_disk' => 'Available Disk',
+    'available_memory' => 'Available Memory',
 );
