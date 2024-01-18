@@ -809,4 +809,7 @@
     'available_disk' => 'Available Disk',
     'available_memory' => 'Available Memory',
     'api_tokens' => 'API Tokens',
+    'last_used' => 'Last Used',
+    'allowed_ips' => 'Allowed IPs',
+    'allowed_ips_desc' => 'Enter the IP addresses that are allowed to use this token. Leave empty to allow all IPs.',
 );
