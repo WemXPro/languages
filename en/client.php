@@ -556,4 +556,10 @@
     'port' => 'Port',
     'primary' => 'Primary',
     'make_primary' => 'Make Primary',
+    'settings' => 'Settings',
+    'docker_image' => 'DOCKER IMAGE',
+    'startup_command' => 'STARTUP COMMAND',
+    'reinstall' => 'Reinstall',
+    'reinstall_desc' => 'Reinstalling your server will stop it, and then re-run the installation script that initially set it up. Some files may be deleted or modified during this process, please back up your data before continuing.',
+    'reinstall_confirm' => 'Are you sure you want to reinstall your server?',
 );
