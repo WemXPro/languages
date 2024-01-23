@@ -562,4 +562,7 @@
     'reinstall' => 'Reinstall',
     'reinstall_desc' => 'Reinstalling your server will stop it, and then re-run the installation script that initially set it up. Some files may be deleted or modified during this process, please back up your data before continuing.',
     'reinstall_confirm' => 'Are you sure you want to reinstall your server?',
+    'sftp_details' => 'SFTP Details',
+    'launch_sftp' => 'Launch SFTP',
+    'launch_sftp_desc' => 'Your SFTP password is the same as the password you use to access the pterodactyl panel.',
 );
