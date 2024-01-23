@@ -309,6 +309,7 @@
     'email_subscription_payment_completed_subject' => 'Підписка',
     'email_subscription_payment_content' => 'Підписка було успішно оплачена',
     'email_subscription_payment_cancel_subject' => 'Підписка скасована',
+    'email_subscription_payment_cancel_content' => 'Підписку було успішно скасовано',
     'account_suspended' => 'Ваш обліковий запис призупинено',
     'suspended_contact_for_information' => 'Ваш доступ до цієї програми скасовано. Якщо ви вважаєте, що це була помилка, зв’яжіться з нами.',
     'reference_id' => 'Ідентифікатор посилання:',
@@ -351,7 +352,7 @@
     'filter_status' => 'Статус фільтра',
     'false' => 'false',
     'true' => 'true',
-    'you_are_currently_logged_in_as_please_press_exit' => 'You are currently logged in as :username, please press <a href=":route" class="font-semibold underline hover:no-underline">exit</a> to leave this mode',
+    'you_are_currently_logged_in_as_please_press_exit' => 'Ви зараз увійшли як :username, будь ласка, натисніть <a href=":route" class="font-semibold underline hover:no-underline">вихід</a> щоб вийти з цього режиму.',
     'author' => 'автор',
     'write_a_comment' => 'Напишіть коментар...',
     'name' => 'Ім\'я',
@@ -534,5 +535,4 @@
     'sftp_details' => 'Деталі SFTP',
     'launch_sftp' => 'Запустити SFTP',
     'launch_sftp_desc' => 'Ваш пароль SFTP збігається з паролем, який ви використовуєте для доступу до панелі птеродактіл.',
-
 );

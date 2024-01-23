@@ -352,6 +352,7 @@
     'email_subscription_payment_completed_subject' => 'Subscription',
     'email_subscription_payment_content' => 'The subscription was successfully paid',
     'email_subscription_payment_cancel_subject' => 'Subscription Cancelled',
+    'email_subscription_payment_cancel_content' => 'The subscription was successfully cancelled',
     'account_suspended' => 'Your account has been suspended',
     'suspended_contact_for_information' => 'Your access to this application was revoked. If you believe this was an error, please contact us.',
     'reference_id' => 'Reference ID: ',
@@ -565,4 +566,5 @@
     'sftp_details' => 'SFTP Details',
     'launch_sftp' => 'Launch SFTP',
     'launch_sftp_desc' => 'Your SFTP password is the same as the password you use to access the pterodactyl panel.',
+
 );
