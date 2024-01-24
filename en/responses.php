@@ -135,4 +135,5 @@
     'server_rename_successfully' => 'Server renamed successfully',
     'server_reinstall_successfully' => 'Server reinstalled successfully',
     'docker_image_successfully' => 'Docker image set successfully',
+    'all_nodes_full_in_location' => 'All nodes of the selected location are full, try another location or contact an administrator',
 );

@@ -135,4 +135,5 @@
     'server_rename_successfully' => 'Сервер успішно перейменовано',
     'server_reinstall_successfully' => 'Сервер успішно перевстановлено',
     'docker_image_successfully' => 'Docker Image успішно встановлено',
+    'all_nodes_full_in_location' => 'Усі вузли вибраного розташування заповнені, спробуйте інше місце або зверніться до адміністратора',
 );
