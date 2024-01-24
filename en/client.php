@@ -566,5 +566,13 @@
     'sftp_details' => 'SFTP Details',
     'launch_sftp' => 'Launch SFTP',
     'launch_sftp_desc' => 'Your SFTP password is the same as the password you use to access the pterodactyl panel.',
-
+    'every_minute' => 'Every minute',
+    'every_5_minutes' => 'Every 5 minutes',
+    'every_hour' => 'Every hour',
+    'every_day' => 'Every day',
+    'every_week' => 'Every week',
+    'every_month' => 'Every month',
+    '15th_of_month' => '15th of month',
+    'every_year' => 'Every year',
+    'new_year' => 'New year',
 );
