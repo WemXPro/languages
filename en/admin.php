@@ -824,4 +824,6 @@
     'server_has_been_assigned_error' => 'Server has been assigned to another order',
     'server_not_found' => 'Pterodactyl server not found',
     'assign_order_error' => 'The order already has an assigned server or the order does not exist',
+    'path' => 'Path',
+    'count' => 'Count',
 );

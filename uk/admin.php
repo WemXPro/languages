@@ -790,4 +790,6 @@
     'server_has_been_assigned_error' => 'Сервер призначено для іншого замовлення',
     'server_not_found' => 'Сервер Pterodactyl не знайдено',
     'assign_order_error' => 'Замовленню вже призначено сервер або замовлення не існує',
+    'path' => 'Шлях',
+    'count' => 'Кількість',
 );
