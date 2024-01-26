@@ -236,6 +236,8 @@
     'paid_payments' => 'Paid Payments',
     'recent_payments' => 'Recent Payments',
     'terminate' => 'Terminate',
+    'force_terminate' => 'Force Terminate',
+    'force_suspend' => 'Force Suspend',
     'extend_date' => 'Extend Date',
     'unsuspend' => 'Unsuspend',
     'suspend' => 'Suspend',
