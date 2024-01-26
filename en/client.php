@@ -146,7 +146,7 @@
     'enter_domain' => 'Enter domain',
     'enter_domain_desc' => 'Please enter the domain where you want to use this service.',
     'domain' => 'Domain',
-    'enter_domain_helper' => 'Please enter the exact domain. i.e example.com or if you are using a subdomain web.example.com',
+    'enter_domain_helper' => 'Please enter the exact domain. i.e example.com or if you are using a subdomain web.example.com<',
     'payment_method' => 'Payment method',
     'payment_method_desc' => 'Select the desired Payment method',
     'subscription' => 'Subscription',
