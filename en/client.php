@@ -124,7 +124,7 @@
     'change_price_cycle' => 'Change Price Cycle',
     'cycle' => 'Cycle',
     'cancellation_fee' => 'Cancellation fee',
-    'upgrade_price_info' => 'This service expires in :days days. You will be upgraded immediately to <span id="selected_package2">:package</span> and charged for the difference for the remaining days',
+    'upgrade_price_info' => 'This service expires in :days days. You will be upgraded immediately to <span id="selected_package2">:package</span> and charged for the difference for the remaining days, plus the upgrade fee',
     'dashboard' => 'Dashboard',
     'store' => 'Store',
     'view_all' => 'View all',
