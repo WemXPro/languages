@@ -831,4 +831,5 @@
     'assign_order_error' => 'The order already has an assigned server or the order does not exist',
     'path' => 'Path',
     'count' => 'Count',
+    'location_full' => '(This location is full and unavailable)',
 );
