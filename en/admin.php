@@ -831,4 +831,5 @@
     'assign_order_error' => 'The order already has an assigned server or the order does not exist',
     'path' => 'Path',
     'count' => 'Count',
+    'queue_worker_not_setup' => 'Queue worker is not running! Please enable the queue worker, you can find more information here: <a href="https://docs.wemx.net/en/project/queue-worker" target="_blank">https://docs.wemx.net/en/project/queue-worker</a>',
 );
