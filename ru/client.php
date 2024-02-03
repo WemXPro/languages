@@ -141,7 +141,7 @@
     'resources' => 'Ресурсы',
     'legal' => 'Правовая информация',
     'all_rights_reserved' => 'Все права защищены.',
-    'price_block_desc' => 'Сначала :period :symbol:total_price, затем :symbol:renewal_price за каждый :per_period',
+    'price_block_desc' => 'Сначала :period :symbol:total_price, затем :symbol:renewal_price :per_period',
     'price_onetime_block_desc' => 'Вы заплатите :symbol:price один раз, чтобы получить доступ навсегда',
     'enter_domain' => 'Введите домен',
     'enter_domain_desc' => 'Пожалуйста, введите домен, где вы хотите использовать эту услугу.',
