@@ -575,4 +575,7 @@
     '15th_of_month' => '15th of month',
     'every_year' => 'Every year',
     'new_year' => 'New year',
+    'renew_service_desc' => 'The due date for this service was on the  :translated_format (:diff_for_humans)<br><br>
+            We regret to inform you that your service has been suspended due to overdue payment. To avoid termination, please settle any outstanding invoices within :terminate_suspended_after days from the due date. If payment is not received within this timeframe, your service will be terminated, resulting in the deletion or revocation of all associated data, files, and licenses.',
+    'cancel_alert_desc' => 'This service is set to be cancelled on :translated_format (:diff_for_humans)<br> <br> If you have changed your mind, you can undo the cancellation before this date. If no action is taken, your service will be suspended and terminated. All files and data belonging to this service will be deleted forever.',
 );
