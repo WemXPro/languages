@@ -1,6 +1,5 @@
 <?php return array (
-//Wemx-Sytem Languages
-//Translated by Ben Kliver | faceliftben on behalf of game-paradise for wemx.com 🌐📝
+
 
   'choose_domain' => 'Wählen eine Domain....',
   'reg_new_domain' => 'Neue Domain registrieren',
@@ -432,19 +431,15 @@
   'custom_options' => 'Weitere Optionen',
   'custom_options_desc' => 'Passe dein Server auf dich, um mache ihn noch cooler',
   'games' => 'Games',
-  //Portal from Partymann2000
-  'faq_title' => 'Häufig gestellte Fragen (FAQ) 🤔📚',
-  'faq_description' => 'Erfahre alles was du wissen musst, oder was du noch nicht weißt :)',
-  'happy_clients' => 'Glückliche Kunde',
-  'active_plans' => 'verügbare Pakete',
-  'active_servers' => 'wurden bereits erworben',
-  'more' => 'Mehr',
-  //Edit from the VAT
-  'vat' => 'MwSt.',
-  'incl' => 'Inkl.',
-  'excl' => 'Exkl.',
-
-//Pterodactyl 
+'faq_title' => 'Häufig gestellte Fragen (FAQ) 🤔📚',
+'faq_description' => 'Erfahre alles was du wissen musst, oder was du noch nicht weißt :)',
+'happy_clients' => 'Glückliche Kunde',
+'active_plans' => 'verügbare Pakete',
+'active_servers' => 'wurden bereits erworben',
+'more' => 'Mehr',
+'vat' => 'MwSt.',
+'incl' => 'Inkl.',
+'excl' => 'Exkl.',
 'cron' => 'Cron',
 'running' => 'läuft',
 'next_run' => 'Nächste Ausführung',
