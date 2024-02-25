@@ -578,4 +578,28 @@
     'renew_service_desc' => 'The due date for this service was on the  :translated_format (:diff_for_humans)<br><br>
             We regret to inform you that your service has been suspended due to overdue payment. To avoid termination, please settle any outstanding invoices within :terminate_suspended_after days from the due date. If payment is not received within this timeframe, your service will be terminated, resulting in the deletion or revocation of all associated data, files, and licenses.',
     'cancel_alert_desc' => 'This service is set to be cancelled on :translated_format (:diff_for_humans)<br> <br> If you have changed your mind, you can undo the cancellation before this date. If no action is taken, your service will be suspended and terminated. All files and data belonging to this service will be deleted forever.',
+    'you_have_pending_member_invitations' => 'You have pending member invitations <a class="underline" href=":route">view invitations</a>',
+    'suspended_order_alert' => 'The due date for this service was on the :translated_format (:diff_for_humans)<br><br>
+            We regret to inform you that your service has been suspended due to overdue payment. To avoid termination, please settle any
+            outstanding invoices within :terminate_suspended_after days from the due date. If payment is not received
+            within this timeframe, your service will be terminated, resulting in the deletion or revocation of all associated data, files,
+            and licenses.',
+    'pending' => 'Pending',
+    'member' => 'Member',
+    'reject' => 'Reject',
+    'leave' => 'Leave',
+    'accept' => 'Accept',
+    'visit_website' => 'Visit Website',
+    'whois_info' => 'WHOIS Info',
+    'invite_member' => 'Invite Member',
+    'user' => 'User',
+    'user_role' => 'User Role',
+    'created' => 'Created',
+    'all_administrator_permissions' => 'Administrator (All Permissions)',
+    'select_member_permissions' => 'Member (Selected Permissions)',
+    'permissions' => 'Permissions',
+    'showing_span' => 'Showing',
+    'invite_member_desc' => 'Invite a team member to come and manage this order. If the user is not
+            registered, they\'ll be sent an email to register and join the team.',
+    'send_invite' => 'Send Invite',
 );

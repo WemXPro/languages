@@ -833,4 +833,12 @@
     'count' => 'Count',
     'queue_worker_not_setup' => 'Queue worker is not running! Please enable the queue worker, you can find more information here: <a href="https://docs.wemx.net/en/project/queue-worker" target="_blank">https://docs.wemx.net/en/project/queue-worker</a>',
     'location_full' => '(This location is full and unavailable)',
+    'default_theme_color' => 'Default Theme Color',
+    'edit_email_alert' => 'WemX already sends a set of emails when an order is cancelled, suspended or terminated.
+        You can configure them <a target="_blank" href="/admin/emails/messages"><strong>here</strong></a>
+        - This page provides you more customibility to send package specific emails.',
+    'allow_user_upgrade' => 'Yes, allow users to upgrade',
+    'disable_user_upgrade' => 'No, disable upgrading for this package',
+    'webhooks_desc' => 'Package webhooks are a powerful feature allowing you to do a huge amount of things. You can also use custom variables inside webhooks.',
+    'learn_more' => 'Learn More',
 );
