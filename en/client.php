@@ -602,4 +602,5 @@
     'invite_member_desc' => 'Invite a team member to come and manage this order. If the user is not
             registered, they\'ll be sent an email to register and join the team.',
     'send_invite' => 'Send Invite',
+    'package_does_not_allow_cancellation' => 'This package does not allow cancellation',
 );

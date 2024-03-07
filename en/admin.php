@@ -841,4 +841,8 @@
     'disable_user_upgrade' => 'No, disable upgrading for this package',
     'webhooks_desc' => 'Package webhooks are a powerful feature allowing you to do a huge amount of things. You can also use custom variables inside webhooks.',
     'learn_more' => 'Learn More',
+    'allow_cancellation' => 'Allow Cancellation',
+    'allow_cancellation_desc' => 'Allow users to cancel this package',
+    'allow_package_cancellation' => 'Yes, Allow Package Cancellation',
+    'disable_package_cancellation' => 'No, Disable Package Cancellation',
 );
