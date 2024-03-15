@@ -1,4 +1,4 @@
 <?php return array(
-    'previous' => 'Previous',
-    'next' => 'Next',
+    'previous' => 'Anterior',
+    'next' => 'Próximo',
 );
