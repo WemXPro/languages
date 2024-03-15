@@ -25,6 +25,8 @@
     'oauth_discord_verified_error' => 'Sua conta do Discord não está verificada.',
     'password' => 'Senha',
     'confirm_password' => 'Confirmar senha',
+    'new_password' => 'Nova senha',
+    'confirm_new_password' => 'Confirme nova senha',
     'email_verification' => 'Verificação de Email',
     'info' => 'Informações',
     'activate' => 'Ativar',
@@ -118,5 +120,8 @@
     'two_factor_authentication' => 'Autenticação de Dois Fatores',
     '2fa_code' => 'Código 2FA',
     'verify_2fa_code' => 'Verificar 2FA',
-
+    'log_in' => 'Entrar',
+    'password_reset' => 'Redefinir Senha',
+    'password_reset_content' => 'Você solicitou um token de redefinição de senha',
+    'view_2fa_secretcode' => 'Passe o mouse sobre o código QR para visualizar o código 2FA para inserir manualmente no seu autenticador favorito',
 );
