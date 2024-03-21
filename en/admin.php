@@ -857,4 +857,5 @@
     'force_staff_2fa_description' => 'Force staff members on your application to use Two Factor Authentication',
     '2fa_setup_required' => 'Two Factor Authentication setup required for staff members',
     'email_deleted_success' => 'Email has been deleted successfully',
+    'terminate_user_orders' => 'Terminate all orders that belong to this user',
 );
