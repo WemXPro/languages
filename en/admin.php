@@ -853,4 +853,7 @@
     'operator' => 'Operator',
     'separate_multiple_values_with_comma' => 'Separate multiple values with a comma ","',
     'default_avatar' => 'Default Avatar',
+    'force_staff_2fa' => 'Force staff members to use Two Factor Authentication',
+    'force_staff_2fa_description' => 'Force staff members on your application to use Two Factor Authentication',
+    '2fa_setup_required' => 'Two Factor Authentication setup required for staff members',
 );

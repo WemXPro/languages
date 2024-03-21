@@ -603,4 +603,5 @@
             registered, they\'ll be sent an email to register and join the team.',
     'send_invite' => 'Send Invite',
     'package_does_not_allow_cancellation' => 'This package does not allow cancellation',
+    'disable_2fa' => 'Disable 2FA',
 );
