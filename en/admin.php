@@ -858,4 +858,5 @@
     '2fa_setup_required' => 'Two Factor Authentication setup required for staff members',
     'email_deleted_success' => 'Email has been deleted successfully',
     'terminate_user_orders' => 'Terminate all orders that belong to this user',
+    'enable_cloudflare_proxy_integration' => 'The application has detected CloudFlare proxy. Enable the integration using <code>php artisan cloudflare:enable</code>',
 );
