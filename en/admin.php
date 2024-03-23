@@ -851,7 +851,6 @@
     'random' => 'Random',
     'filter' => 'Filter',
     'operator' => 'Operator',
-    'separate_multiple_values_with_comma' => 'Separate multiple values with a comma ","',
     'default_avatar' => 'Default Avatar',
     'force_staff_2fa' => 'Force staff members to use Two Factor Authentication',
     'force_staff_2fa_description' => 'Force staff members on your application to use Two Factor Authentication',
@@ -859,4 +858,12 @@
     'email_deleted_success' => 'Email has been deleted successfully',
     'terminate_user_orders' => 'Terminate all orders that belong to this user',
     'enable_cloudflare_proxy_integration' => 'The application has detected CloudFlare proxy. Enable the integration using <code>php artisan cloudflare:enable</code>',
-);
+    'equals' => 'Equals',
+    'not_equals' => 'Not Equals',
+    'contains' => 'Contains',
+    'not_contains' => 'Not Contains',
+    'greater_than' => 'Greater Than',
+    'less_than' => 'Less Than',
+    'remove_filter' => 'Remove Filter',
+    'add_filter' => 'Add Filter',
+); 
