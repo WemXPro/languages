@@ -845,4 +845,7 @@
     'allow_cancellation_desc' => 'Allow users to cancel this package',
     'allow_package_cancellation' => 'Yes, Allow Package Cancellation',
     'disable_package_cancellation' => 'No, Disable Package Cancellation',
+    'default_avatar' => 'Default Avatar',
+    'allow_custom_avatars' => 'Allow Custom Avatars',
+    'allow_custom_avatars_description' => 'Allow registered users to upload custom avatars',
 );
