@@ -869,4 +869,5 @@
     'less_than' => 'Less Than',
     'remove_filter' => 'Remove Filter',
     'add_filter' => 'Add Filter',
+    'moderation' => 'Moderation',
 ); 
