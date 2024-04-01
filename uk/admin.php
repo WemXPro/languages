@@ -826,4 +826,11 @@
     'remove_filter' => 'Зняти фільтр',
     'add_filter' => 'Додати фільтр',
     'moderation' => 'Модерація',
+    'allow_staff_sso_logins' => 'Дозвольте співробітникам входити за допомогою SSO',
+    'allow_staff_sso_logins_description' => 'Дозвольте співробітникам входити за допомогою єдиного входу',
+    'account_created_email_subject' => 'Ваш обліковий запис :service створено',
+    'account_created_email_content' => "Ваш обліковий запис :service створено. Ви можете увійти, використовуючи такі облікові дані: <br><br> Ім'я користувача: :username <br> Пароль: :password ",
+    'generate_password' => 'Згенерувати пароль',
+    'verify_email' => 'Підтвердити електронну адресу',
+    'verify_email_help' => 'Якщо позначено, обліковий запис буде активовано без підтвердження електронної пошти',
 );
