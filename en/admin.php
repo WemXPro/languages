@@ -870,4 +870,6 @@
     'remove_filter' => 'Remove Filter',
     'add_filter' => 'Add Filter',
     'moderation' => 'Moderation',
+    'allow_staff_sso_logins' => 'Allow staff members to login using SSO',
+    'allow_staff_sso_logins_description' => 'Allow staff members to login using Single Sign-On',
 ); 
