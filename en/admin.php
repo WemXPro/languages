@@ -872,4 +872,10 @@
     'moderation' => 'Moderation',
     'allow_staff_sso_logins' => 'Allow staff members to login using SSO',
     'allow_staff_sso_logins_description' => 'Allow staff members to login using Single Sign-On',
+    'account_created_email_subject' => 'Your :service account has been created',
+    'account_created_email_content' => "Your :service account has been created. You can login using the following credentials: <br><br> Username: :username <br> Password: :password ",
+    'generate_password' => 'Generate Password',
+    'verify_email' => 'Verify Email',
+    'verify_email_help' => 'If checked, the account will be activated without email verification',
+
 ); 
