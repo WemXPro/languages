@@ -51,7 +51,7 @@
     'verify_account' => 'Verify account',
     'forgot_password' => 'Forgot Password',
     'email' => 'Email',
-    'request_reset_password' => 'Request Reset Password',
+    'request_reset_password' => 'Request Password Reset',
     'remember_password' => 'Remember your password?',
     'sign_in' => 'Sign In',
     'welcome_back' => 'Welcome back',
