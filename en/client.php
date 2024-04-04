@@ -604,4 +604,9 @@
     'send_invite' => 'Send Invite',
     'package_does_not_allow_cancellation' => 'This package does not allow cancellation',
     'disable_2fa' => 'Disable 2FA',
+    'generate_password' => 'Generate Password',
+    'regenerate' => 'Regenerate',
+    'copy_and_insert' => 'Copy & insert',
+    'generated_password' => 'Generated Password',
+    'minimum_characters' => 'Minimum characters',
 );
