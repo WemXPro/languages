@@ -877,5 +877,6 @@
     'generate_password' => 'Generate Password',
     'verify_email' => 'Verify Email',
     'verify_email_help' => 'If checked, the account will be activated without email verification',
-
+    'require_phone_number' => 'Require Phone Number',
+    'require_phone_number_desc' => 'Require users to provide a phone number when registering. (Require Address must be enabled)',
 ); 

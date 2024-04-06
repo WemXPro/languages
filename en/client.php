@@ -60,6 +60,8 @@
     'company_name' => 'Company Name',
     'select_an_option' => 'Select an option',
     'address' => 'address',
+    'country' => 'Country',
+    'phone_number' => 'Phone Number',
     'city' => 'City',
     'zip_code' => 'Zip Code',
     'state_region_provice' => 'State / Region / Province',
@@ -609,4 +611,5 @@
     'copy_and_insert' => 'Copy & insert',
     'generated_password' => 'Generated Password',
     'minimum_characters' => 'Minimum characters',
+    'complete_address_to_proceed' => 'Please complete your address to proceed',
 );
