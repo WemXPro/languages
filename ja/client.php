@@ -131,7 +131,7 @@ return array(
     'resources' => 'リソース',
     'legal' => '法的事項',
     'all_rights_reserved' => '全著作権所有。',
-    'price_block_desc' => '最初の :period :symbol:total_price、その後 :symbol:renewal_price 毎に :per_period',
+    'price_block_desc' => '最初の :period :total_price、その後 :renewal_price 毎に :per_period',
     'enter_domain' => 'ドメインを入力',
     'enter_domain_desc' => 'このサービスを使用するドメインを入力してください。',
     'domain' => 'ドメイン',
