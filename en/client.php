@@ -615,4 +615,5 @@
     'auto_renew_with_balance' => 'Auto-renew with balance',
     'insufficient_balance_to_auto_renew' => 'You must have atleast :amount in your balance to auto-renew',
     'auto_renew_with_balance_enabled_email' => 'Auto-renew with balance has been enabled for your :order. You will be charged from your balance when the service is due for renewal.',
+    'upcoming_invoice_subject' => 'Upcoming Invoice for :order',
 );
