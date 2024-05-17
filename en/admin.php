@@ -883,5 +883,8 @@
     'all_users' => 'All users',
     'active_orders_users' => 'Users with active orders',
     'no_orders_users' => 'Users without orders',
+    'subscribed_users' => 'Subscribed users',
     'emails_sent_success' => 'Emails have been sent successfully',
+    'button' => 'Button',
+    'button_url' => 'Button URL',
 ); 
