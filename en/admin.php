@@ -879,4 +879,9 @@
     'verify_email_help' => 'If checked, the account will be activated without email verification',
     'require_phone_number' => 'Require Phone Number',
     'require_phone_number_desc' => 'Require users to provide a phone number when registering. (Require Address must be enabled)',
+    'massive_email_send' => 'Bulk sending',
+    'all_users' => 'All users',
+    'active_orders_users' => 'Users with active orders',
+    'no_orders_users' => 'Users without orders',
+    'emails_sent_success' => 'Emails have been sent successfully',
 ); 
