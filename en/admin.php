@@ -887,4 +887,5 @@
     'emails_sent_success' => 'Emails have been sent successfully',
     'button' => 'Button',
     'button_url' => 'Button URL',
+    'delete_terminated_orders' => 'Automatically delete terminated orders?',
 ); 
