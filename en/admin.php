@@ -881,6 +881,7 @@
     'require_phone_number_desc' => 'Require users to provide a phone number when registering. (Require Address must be enabled)',
     'massive_email_send' => 'Bulk sending',
     'all_users' => 'All users',
+    'users_any_orders' => 'Users with any orders (active, suspended, terminated, etc)',
     'active_orders_users' => 'Users with active orders',
     'no_orders_users' => 'Users without orders',
     'subscribed_users' => 'Subscribed users',
@@ -888,4 +889,10 @@
     'button' => 'Button',
     'button_url' => 'Button URL',
     'delete_terminated_orders' => 'Automatically delete terminated orders?',
+    'users_with_packages' => 'Users with packages',
+    'select_users' => 'Select users',
+    'enable_custom_button' => 'Enable custom button',
+    'schedule_email_datetime' => 'Schedule email date and time',
+    'schedule' => 'Schedule',
+    'show_email_in_history' => 'Can users see this email in their email history in the client area?',
 ); 
