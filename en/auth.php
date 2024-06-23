@@ -65,8 +65,6 @@
     'first_name' => 'First Name',
     'account_details' => 'Account details',
     'reset_password' => 'Reset Password',
-    'new_password' => 'New Password',
-    'confirm_new_password' => 'Confirm New Password',
     'happy_customers' => 'Happy Customers',
     'over' => 'Over',
     'email_or_username' => 'Email or Username',
