@@ -377,7 +377,7 @@
     'news' => 'News',
     'cookies_settings' => 'Cookie Settings',
     'cookies_settings_description' => 'To use these Services, we need your consent. By clicking on “Accept all”, you declare your consent to the use of all Services. Cookies are used for important tasks, such as to remember your session when you login, protect you from XSRF attacks and more.',
-    'essential_cookies' => 'Esential cookies',
+    'essential_cookies' => 'Essential cookies',
     'essential_cookies_description' => 'To use these Services, we need your consent. By clicking on “Accept all”, you declare your consent to the use of all Services. You can also declare your consent by individually clicking on the sliders for each category of cookies and save.',
     'functional_cookies' => 'Functional cookies',
     'functional_cookies_description' => 'To use these Services, we need your consent. By clicking on “Accept all”, you declare your consent to the use of all Services. You can also declare your consent by individually clicking on the sliders for each category of cookies and save.',
