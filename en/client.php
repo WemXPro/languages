@@ -173,6 +173,7 @@
     'create_subscription' => 'Create Subscription',
     'subscription_name' => 'Subscription name',
     'order' => 'Order',
+    'view_order' => 'View Order',
     'gateway' => 'Gateway',
     'billed_as' => 'Billed as',
     'next_billing_date' => 'Next Billing Date',
@@ -617,4 +618,9 @@
     'auto_renew_with_balance_enabled_email' => 'Auto-renew with balance has been enabled for your :order. You will be charged from your balance when the service is due for renewal.',
     'upcoming_invoice_subject' => 'Upcoming Invoice for :order',
     'upcoming_invoice_content' => 'You have an upcoming invoice for <strong>:order</strong>. Pay this invoice before <strong>:due_date</strong> to avoid any interruptions to your service. <br><br> If you have an active subscription or automatic balance renewal enabled, this invoice will be paid automatically.',
+    'renew_email_purpose' => 'We are emailing you because you have auto-renew enabled.',
+    'insufficient_balance_to_renew_subject' => 'Insufficient balance to renew :order',
+    'insufficient_balance_to_renew_content' => 'You do not have enough balance to auto-renew <strong>:order</strong>, your order is due on <strong>:due_date</strong>. Please add funds to your account to avoid any interruptions to your service.',
+    'order_successfully_renewed_subject' => 'Your order has been successfully renewed [:order #:id]',
+    'order_successfully_renewed_content' => 'Your order <strong>:order</strong> has been successfully renewed until <strong>:due_date</strong>. We have charged <strong>:amount</strong> from your balance.',
 );
