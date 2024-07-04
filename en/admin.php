@@ -198,6 +198,7 @@
     'client_management' => 'Client Management',
     'payments' => 'Payments',
     'configuration' => 'Configuration',
+    'config' => 'Config',
     'registrations' => 'Registrations',
     'oauth' => 'Oauth',
     'captcha' => 'Captcha',
