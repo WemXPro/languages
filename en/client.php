@@ -623,4 +623,7 @@
     'insufficient_balance_to_renew_content' => 'You do not have enough balance to auto-renew <strong>:order</strong>, your order is due on <strong>:due_date</strong>. Please add funds to your account to avoid any interruptions to your service.',
     'order_successfully_renewed_subject' => 'Your order has been successfully renewed [:order #:id]',
     'order_successfully_renewed_content' => 'Your order <strong>:order</strong> has been successfully renewed until <strong>:due_date</strong>. We have charged <strong>:amount</strong> from your balance.',
+    'select_date' => 'Select Date',
+    'select_custom_date' => 'Select Custom Date',
+    'select_from_preset' => 'Select from preset',
 );
