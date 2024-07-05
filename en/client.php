@@ -626,4 +626,5 @@
     'select_date' => 'Select Date',
     'select_custom_date' => 'Select Custom Date',
     'select_from_preset' => 'Select from preset',
+    'current_due_date' => 'Current Due Date',
 );

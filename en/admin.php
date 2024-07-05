@@ -894,4 +894,8 @@
     'schedule_email_datetime' => 'Schedule email date and time',
     'schedule' => 'Schedule',
     'show_email_in_history' => 'Can users see this email in their email history in the client area?',
+    'allow_custom_renewal_date' => 'Allow custom renewal date',
+    'allow_custom_renewal_date_desc' => 'Do you want to allow clients to select a custom date when renewing an order?',
+    'minimum_advance_days_custom_date' => 'Minimum advance days for custom date',
+    'minimum_advance_days_custom_date_desc' => 'What is the minimum number of days in advance a client can select a custom renewal date?',
 ); 
