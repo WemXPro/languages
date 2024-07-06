@@ -130,4 +130,6 @@
     'user_2fa_enabled_content' => 'Two Factor Authentication has been enabled for your account. If you did not make this change, take action immediately.',
     'user_2fa_disabled_subject' => '2FA has been disabled for your account',
     'user_2fa_disabled_content' => 'Two Factor Authentication has been disabled for your account. If you did not make this change, take action immediately.',
+    'user_new_login_subject' => 'New login on :app_name',
+    'user_new_login_content' => 'A new login has been detected from <strong>:ip_address</strong> on <strong>:app_name</strong>. If this was you, you can ignore this email. If this was not you, take action immediately.',
 );
