@@ -253,7 +253,7 @@
     'cancelled_at_service_desc' => 'The date the service is set to be cancelled. Only fillable if status is cancelled',
     'new_due_date_desc' => 'The current due date',
     'new_due_date' => 'New Due Date',
-    'cancel_service_modal_body' => 'This service has a cancellation fee of <a class="alert-link">:currency :price</a>
+    'cancel_service_modal_body' => 'This service has a cancellation fee of <a class="alert-link">:price</a>
                                   - The cancellation fee will be waved when you proceed with the cancellation below.',
     'order' => 'Order',
     'cancellation_confirm_order_warn' => 'You are about to terminate this service. Terminating may delete all data including files or servers on third party applications. This process cannot be undone.',

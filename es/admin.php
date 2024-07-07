@@ -247,7 +247,7 @@
     'cancelled_at_service_desc' => 'La fecha en la que el servicio está programado para ser cancelado. Solo se puede completar si el estado es cancelado.',
     'new_due_date_desc' => 'La fecha de vencimiento actual',
     'new_due_date' => 'Nueva Fecha de Vencimiento',
-    'cancel_service_modal_body' => 'Este servicio tiene una tarifa de cancelación de <a class="alert-link">:currency :price</a>
+    'cancel_service_modal_body' => 'Este servicio tiene una tarifa de cancelación de <a class="alert-link">:price</a>
                                     - La tarifa de cancelación se eliminará cuando procedas con la cancelación a continuación.',
     'order' => 'Orden',
     'cancellation_confirm_order_warn' => 'Estás a punto de cancelar este servicio. La cancelación puede eliminar todos los datos, incluidos archivos o servidores en aplicaciones de terceros. Este proceso no se puede deshacer.',

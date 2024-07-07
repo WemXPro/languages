@@ -251,7 +251,7 @@
     'cancelled_at_service_desc' => 'La date à laquelle le service doit être annulé. Remplissable uniquement si le statut est annulé',
     'new_due_date_desc' => 'La date d\'échéance actuelle',
     'new_due_date' => 'Nouvelle date d\'échéance',
-    'cancel_service_modal_body' => 'Ce service a des frais d\'annulation de <a class="alert-link">:price :currency</a>
+    'cancel_service_modal_body' => 'Ce service a des frais d\'annulation de <a class="alert-link">:price</a>
                                   - Les frais d\'annulation seront annulés lorsque vous procéderez à l\'annulation ci-dessous.',
     'order' => 'Commande',
     'cancellation_confirm_order_warn' => 'Vous êtes sur le point de mettre fin à ce service. La résiliation peut supprimer toutes les données, y compris les fichiers ou les serveurs sur des applications tierces. Ce processus ne peut pas être annulé.',

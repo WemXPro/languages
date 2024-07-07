@@ -247,7 +247,7 @@
     'cancelled_at_service_desc' => 'Tanggal layanan akan dibatalkan. Hanya dapat diisi jika statusnya dibatalkan',
     'new_due_date_desc' => 'Tanggal jatuh tempo saat ini',
     'new_due_date' => 'Tanggal Jatuh Tempo Baru',
-    'cancel_service_modal_body' => 'Layanan ini memiliki biaya pembatalan sebesar <a class="alert-link">:currency :price</a>
+    'cancel_service_modal_body' => 'Layanan ini memiliki biaya pembatalan sebesar <a class="alert-link">:price</a>
                                   - Biaya pembatalan akan dihapus saat Anda melanjutkan dengan pembatalan di bawah ini.',
     'order' => 'Pesanan',
     'cancellation_confirm_order_warn' => 'Anda akan menghentikan layanan ini. Menghentikan dapat menghapus semua data termasuk file atau server pada aplikasi pihak ketiga. Proses ini tidak dapat dibatalkan.',

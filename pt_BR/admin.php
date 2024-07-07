@@ -246,7 +246,7 @@
     'cancelled_at_service_desc' => 'A data em que o serviço está programado para ser cancelado. Preenchível apenas se o status for cancelado',
     'new_due_date_desc' => 'A data de vencimento atual',
     'new_due_date' => 'Nova Data de Vencimento',
-    'cancel_service_modal_body' => 'Este serviço tem uma taxa de cancelamento de <a class="alert-link">:currency :price</a> - A taxa de cancelamento será dispensada quando você prosseguir com o cancelamento abaixo.',
+    'cancel_service_modal_body' => 'Este serviço tem uma taxa de cancelamento de <a class="alert-link">:price</a> - A taxa de cancelamento será dispensada quando você prosseguir com o cancelamento abaixo.',
     'order' => 'Pedido',
     'cancellation_confirm_order_warn' => 'Você está prestes a encerrar este serviço. O encerramento pode excluir todos os dados, incluindo arquivos ou servidores em aplicativos de terceiros. Esse processo não pode ser desfeito.',
     'cancellation_order_email_desc' => 'Deixe este campo vazio para não enviar um email ao usuário informando a nova data de vencimento.',

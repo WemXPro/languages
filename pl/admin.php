@@ -239,7 +239,7 @@
   'cancelled_at_service_desc' => 'Data, kiedy usługa ma zostać anulowana. Można uzupełnić tylko, jeśli status jest anulowany.',
   'new_due_date_desc' => 'Aktualny termin płatności',
   'new_due_date' => 'Nowy Termin Płatności',
-  'cancel_service_modal_body' => 'Ta usługa ma opłatę za anulowanie w wysokości <a class="alert-link">:currency :price</a>                                - Opłata za anulowanie zostanie uznana, gdy przystąpisz do anulowania poniżej.',
+  'cancel_service_modal_body' => 'Ta usługa ma opłatę za anulowanie w wysokości <a class="alert-link">:price</a> - Opłata za anulowanie zostanie uznana, gdy przystąpisz do anulowania poniżej.',
   'order' => 'Zamówienie',
   'cancellation_confirm_order_warn' => 'Zaraz anulujesz tę usługę. Anulowanie może spowodować usunięcie wszystkich danych, w tym plików lub serwerów w aplikacjach osób trzecich. Proces ten nie może być cofnięty.',
   'cancellation_order_email_desc' => 'Pozostaw to pole puste, jeśli nie chcesz wysłać użytkownikowi e-maila informującego go o nowym terminie płatności.',
