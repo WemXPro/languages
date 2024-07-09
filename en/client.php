@@ -615,7 +615,7 @@
     'complete_address_to_proceed' => 'Please complete your address to proceed',
     'auto_renew_with_balance' => 'Auto-renew with balance',
     'insufficient_balance_to_auto_renew' => 'You must have atleast :amount in your balance to auto-renew',
-    'auto_renew_with_balance_enabled_email' => 'Auto-renew with balance has been enabled for your :order. You will be charged from your balance when the service is due for renewal.',
+    'auto_renew_with_balance_enabled_email' => 'Auto-renew with balance has been enabled for your service <strong>:order</strong>. You will be charged from your balance when the service is due for renewal.',
     'upcoming_invoice_subject' => 'Upcoming Invoice for :order',
     'upcoming_invoice_content' => 'You have an upcoming invoice for <strong>:order</strong>. Pay this invoice before <strong>:due_date</strong> to avoid any interruptions to your service. <br><br> If you have an active subscription or automatic balance renewal enabled, this invoice will be paid automatically.',
     'renew_email_purpose' => 'We are emailing you because you have auto-renew enabled.',
