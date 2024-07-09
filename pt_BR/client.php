@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'choose_domain' => 'Escolha um domínio...',
     'reg_new_domain' => 'Registrar novo domínio',
     'use_own_domain' => 'Usar seu próprio domínio',
@@ -32,7 +34,7 @@
     'refunded' => 'Reembolsado',
     'actions' => 'Ações',
     'no_records_found' => 'Nenhum registro encontrado',
-    'no_records_found_description' => "Você não possui nenhum :object, novos :object aparecerão aqui",
+    'no_records_found_description' => 'Você não possui nenhum :object, novos :object aparecerão aqui',
     'no_record_found_desc' => 'Você ainda não pagou nenhuma fatura, faturas pagas aparecerão aqui',
     'invoice' => 'Fatura',
     'payment_not_received' => 'Pagamento ainda não recebido.',
@@ -165,7 +167,7 @@
     'view_invoice' => 'Ver fatura',
     'pricing' => 'Preços',
     'pricing_for_service' => 'Preços para :service',
-    'get_started' => 'Começar',        
+    'get_started' => 'Começar',
     'payment_successfully' => 'Pagamento realizado com sucesso',
     'payment_successfully_desc' => 'Obrigado por concluir o pagamento, estamos preparando tudo para você.',
     'create_subscription' => 'Criar Assinatura',
@@ -603,4 +605,4 @@
             eles receberão um e-mail para se registrar e juntar-se à equipe.',
     'send_invite' => 'Enviar Convite',
     'package_does_not_allow_cancellation' => 'Este pacote não permite o cancelamento',
-);
+];

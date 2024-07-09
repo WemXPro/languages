@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'oauth_failed' => 'Autenticación Fallida: Por favor contacta a un Administrador, los errores han sido registrados.',
     'oauth_callback_error' => 'Algo salió mal, por favor intenta de nuevo.',
     'reauth_double_warning' => 'Ya has reautenticado',
@@ -124,4 +126,4 @@
     'password_reset' => 'Restablecimiento de Contraseña',
     'password_reset_content' => 'Has solicitado un token para restablecer tu contraseña',
     'view_2fa_secretcode' => 'Pasa el cursor sobre el código QR para ver el código 2FA y entrar manualmente en tu aplicación autenticadora favorita',
-);
+];

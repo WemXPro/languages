@@ -1,5 +1,6 @@
 <?php
-return array(
+
+return [
     'choose_domain' => 'ドメインを選択...',
     'reg_new_domain' => '新しいドメインを登録する',
     'use_own_domain' => '独自ドメインを使用する',
@@ -356,4 +357,4 @@ return array(
     'latest_news_desc' => 'コミュニティで何が起こっているかや新しいアップデートについて最新情報を入手してください。',
     'read_more' => '詳細を読む',
     'news' => 'ニュース',
-);
+];

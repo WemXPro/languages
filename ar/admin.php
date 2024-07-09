@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'الهوية',
     'name' => 'الاسم',
     'email' => 'البريد الإلكتروني',
@@ -800,5 +802,5 @@
     'maximum_members_per_order' => 'الحد الأقصى لعدد الأعضاء لكل طلب',
     'seo' => 'SEO',
     'keywords' => 'الكلمات المفتاحية',
-    'online_users' => 'المستخدمون النشطون',    
-);
+    'online_users' => 'المستخدمون النشطون',
+];

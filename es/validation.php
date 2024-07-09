@@ -74,7 +74,6 @@ return [
     'unique' => 'El :attribute ya ha sido tomado.',
     'uploaded' => 'El :attribute falló al subir.',
     'url' => 'El formato de :attribute es inválido.',
-    
 
     'attributes' => [],
 ];

@@ -435,7 +435,7 @@ return [
     'email_subscription_payment_content' => '<br><br>La suscripción se pagó correctamente. <br><br>                Detalles del pago: <br>                &bull; ID de la transacción: :id <br>                &bull; Descripción del pago: :description <br>                &bull; Monto del pago: :amount_rounded :currency <br>                &bull; Método de pago: :gateway_name <br><br>                Ten la seguridad de que tu suscripción se ha procesado en tu cuenta y los servicios se han actualizado en consecuencia. <br>',
     'email_subscription_payment_cancel_content' => '<br>La suscripción se canceló correctamente. Probablemente por impago o cancelación manual. <br><br>                Detalles del pago: <br>                &bull; ID de la transacción: :id <br>                &bull; Descripción del pago: :description <br>                &bull; Monto del pago: :amount_rounded :currency <br>                &bull; Método de pago: :gateway_name <br><br>                Ten la seguridad de que tu suscripción se ha procesado en tu cuenta y los servicios se han actualizado en consecuencia. <br>',
     'suspended' => 'Suspendido',
-    'no_records_found_description' => "No tienes ningún :object, , aquí aparecerá un nuevo new :object",
+    'no_records_found_description' => 'No tienes ningún :object, , aquí aparecerá un nuevo new :object',
     'price_onetime_block_desc' => 'Pagas :price una vez para obtener acceso para siempre',
     'select' => 'Seleccionar',
     'bill_to' => 'Facturado a',

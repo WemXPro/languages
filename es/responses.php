@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'group_create_success' => 'Grupo :name creado exitosamente.',
     'group_delete_success' => 'Grupo :name eliminado exitosamente.',
     'create_success' => 'La categoría :name creada exitosamente.',
@@ -136,4 +138,4 @@
     'server_reinstall_successfully' => 'Servidor reinstalado exitosamente',
     'docker_image_successfully' => 'Imagen de Docker establecida exitosamente',
     'all_nodes_full_in_location' => 'Todos los nodos de la ubicación seleccionada están llenos, prueba otra ubicación o contacta a un administrador',
-);
+];

@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'choose_domain' => 'Выберите домен...',
     'reg_new_domain' => 'Зарегистрировать новый домен',
     'use_own_domain' => 'Использовать свой домен',
@@ -574,4 +576,4 @@
     '15th_of_month' => '15-го числа месяца',
     'every_year' => 'Каждый год',
     'new_year' => 'Новый год',
-);
+];

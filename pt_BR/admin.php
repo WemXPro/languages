@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => 'Nome',
     'email' => 'E-mail',
@@ -837,6 +839,6 @@
     'allow_cancellation' => 'Permitir Cancelamento',
     'allow_cancellation_desc' => 'Permitir que os usuários cancelem este pacote',
     'allow_package_cancellation' => 'Sim, Permitir Cancelamento do Pacote',
-    'disable_package_cancellation' => 'Não, Desativar Cancelamento do Pacote',    
-);
-#847
+    'disable_package_cancellation' => 'Não, Desativar Cancelamento do Pacote',
+];
+//847

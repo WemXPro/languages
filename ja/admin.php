@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => '名前',
     'email' => 'メール',
@@ -647,4 +649,4 @@
     'expires_in' => '有効期限',
     'punishments_on_record' => '記録されている処罰',
     'history_of_punishments' => 'このユーザーはルールを破った履歴があり、合計 :number 回違反しています。',
-);
+];

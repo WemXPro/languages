@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => 'Nama',
     'email' => 'Email',
@@ -558,7 +560,7 @@
     'pterodactyl_url' => 'URL Pterodactyl',
     'pterodactyl_url_desc' => 'Masukkan URL panel Pterodactyl Anda agar API dapat berkomunikasi dengan Pterodactyl. Contoh: <code>https://panel.example.com</code>',
     'pterodactyl_api_key' => 'Kunci API Pterodactyl',
-'pterodactyl_api_key_desc' => 'Anda dapat menghasilkan kunci API baru di <code>https://panel.example.com/admin/api</code>. Pastikan memberikan izin BACA & TULIS untuk semua izin.',
+    'pterodactyl_api_key_desc' => 'Anda dapat menghasilkan kunci API baru di <code>https://panel.example.com/admin/api</code>. Pastikan memberikan izin BACA & TULIS untuk semua izin.',
     'pterodactyl_sso_key' => 'Kunci Rahasia Pterodactyl SSO',
     'pterodactyl_sso_key_desc' => 'Anda dapat menemukan informasi lebih lanjut tentang cara mengatur Pterodactyl SSO di sini:',
     'pterodactyl' => 'Pterodactyl',
@@ -664,4 +666,4 @@
     'no_bans_found_desc' => 'Berita baik, kami tidak memiliki pemblokiran',
     'no_warnings_found' => 'Tidak ada peringatan ditemukan',
     'no_warnings_found_desc' => 'Berita baik, kami tidak memiliki peringatan',
-);
+];

@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'group_create_success' => 'تم إنشاء المجموعة :name بنجاح.',
     'group_delete_success' => 'تم حذف المجموعة :name بنجاح.',
     'create_success' => 'تم إنشاء الفئة :name بنجاح.',
@@ -102,4 +104,4 @@
     'account_has_punishments' => 'حسابك يحتوي على عقوبات في سجله، تواصل مع فريق الدعم لإزالة حسابك.',
     'account_deleted_in_24_hours' => 'سيتم حذف حسابك في غضون 72 ساعة، لا يزال بإمكانك التراجع عن هذا.',
     'deletion_request_removed' => 'تم إزالة طلب حذف حسابك.',
-);
+];

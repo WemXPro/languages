@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'group_create_success' => 'Grupa :name została pomyślnie utworzona.',
     'group_delete_success' => 'Grupa :name została pomyślnie usunięta.',
     'create_success' => 'Kategoria :name została pomyślnie utworzona.',
@@ -102,4 +104,4 @@
     'account_has_punishments' => 'Twoje konto ma kary w swojej historii, skontaktuj się z naszym zespołem pomocy, aby usunąć Twoje konto.',
     'account_deleted_in_24_hours' => 'Twoje konto zostanie usunięte za 72 godziny, wciąż masz możliwość cofnięcia tego.',
     'deletion_request_removed' => 'Twoje żądanie usunięcia konta zostało usunięte.',
-);
+];

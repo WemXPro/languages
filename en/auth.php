@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'oauth_failed' => 'Authentication Failed: Please contact an Administrator, errors have been logged.',
     'oauth_callback_error' => 'Something went wrong, please try again.',
     'reauth_double_warning' => 'You have already reauthenticated',
@@ -132,4 +134,4 @@
     'user_2fa_disabled_content' => 'Two Factor Authentication has been disabled for your account. If you did not make this change, take action immediately.',
     'user_new_login_subject' => 'New login on :app_name',
     'user_new_login_content' => 'A new login has been detected from <strong>:ip_address</strong> on <strong>:app_name</strong>. If this was you, you can ignore this email. If this was not you, take action immediately.',
-);
+];

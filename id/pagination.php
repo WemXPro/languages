@@ -1,4 +1,6 @@
-<?php return array (
-  'previous' => 'Sebelumnya',
-  'next' => 'Berikutnya',
-);
+<?php
+
+return [
+    'previous' => 'Sebelumnya',
+    'next' => 'Berikutnya',
+];

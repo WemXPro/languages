@@ -1,4 +1,6 @@
-<?php return array (
+<?php
+
+return [
     'id' => 'ID',
     'name' => 'Nom',
     'email' => 'Email',
@@ -166,22 +168,22 @@
     'client' => 'Client',
     'email_history' => 'Historique des e-mails',
     'email_welcome_desc' => 'Écrire un message de bienvenue aux nouveaux clients',
-    'email_service_new_device_detect_desc' => NULL,
+    'email_service_new_device_detect_desc' => null,
     'email_service_new_device_detect_title' => 'Nouvel appareil détecté',
-    'email_service_terminated_desc' => NULL,
+    'email_service_terminated_desc' => null,
     'email_service_terminated_title' => 'Service résilié',
     'email_content' => 'Contenu de l\'email',
     'email_outro' => 'Conclusion de l\'email',
     'email_outro_desc' => 'Conclusions des messages inclus à la fin de tous les e-mails envoyés.',
     'email_welcome_title' => 'Email de bienvenue',
     'email_payment_paid_title' => 'Paiement payé',
-    'email_payment_paid_desc' => NULL,
+    'email_payment_paid_desc' => null,
     'email_processing_refund_title' => 'Traitement du remboursement',
-    'email_processing_refund_desc' => NULL,
+    'email_processing_refund_desc' => null,
     'email_service_cancelled_title' => 'Service annulé',
-    'email_service_cancelled_desc' => NULL,
+    'email_service_cancelled_desc' => null,
     'email_service_suspended_title' => 'Service suspendu',
-    'email_service_suspended_desc' => NULL,
+    'email_service_suspended_desc' => null,
     'developed_by' => 'développé par',
     'email_templates' => 'Modèles d\'e-mail',
     'are_you_sure' => 'Êtes-vous sûr',
@@ -886,4 +888,4 @@
     'button' => 'Bouton',
     'button_url' => 'URL du bouton',
     'delete_terminated_orders' => 'Supprimer automatiquement les commandes terminées?',
-);
+];

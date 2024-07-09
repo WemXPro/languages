@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'oauth_failed' => 'Autentificare eșuată: Vă rugăm să contactați un administrator, erorile au fost înregistrate.',
     'oauth_callback_error' => 'Ceva nu a mers bine, vă rugăm să încercați din nou.',
     'reauth_double_warning' => 'V-ați reautentificat deja',
@@ -122,5 +124,5 @@
     'verify_2fa_code' => 'Verificați 2FA',
     'log_in' => 'Autentificare',
     'password_reset' => 'Resetare parolă',
-    'password_reset_content' => 'Ați solicitat un token pentru resetarea parolei'
-);
+    'password_reset_content' => 'Ați solicitat un token pentru resetarea parolei',
+];

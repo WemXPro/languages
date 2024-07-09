@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => 'Ім’я',
     'email' => 'Електронна пошта',
@@ -161,22 +163,22 @@
     'client' => 'Клієнт',
     'email_history' => 'Історія електронної пошти',
     'email_welcome_desc' => 'Напишіть привітальне повідомлення новим клієнтам',
-    'email_service_new_device_detect_desc' => NULL,
+    'email_service_new_device_detect_desc' => null,
     'email_service_new_device_detect_title' => 'Виявлено новий пристрій',
-    'email_service_terminated_desc' => NULL,
+    'email_service_terminated_desc' => null,
     'email_service_terminated_title' => 'Послуга припинена',
     'email_content' => 'Зміст електронного листа',
     'email_outro' => 'Кінець електронного листа',
     'email_outro_desc' => 'Повідомлення outro, що включається в кінець всіх відправлених електронних листів.',
     'email_welcome_title' => 'Ласкаво просимо',
     'email_payment_paid_title' => 'Оплата проведена',
-    'email_payment_paid_desc' => NULL,
+    'email_payment_paid_desc' => null,
     'email_processing_refund_title' => 'Обробка повернення коштів',
-    'email_processing_refund_desc' => NULL,
+    'email_processing_refund_desc' => null,
     'email_service_cancelled_title' => 'Послуга скасована',
-    'email_service_cancelled_desc' => NULL,
+    'email_service_cancelled_desc' => null,
     'email_service_suspended_title' => 'Послуга призупинена',
-    'email_service_suspended_desc' => NULL,
+    'email_service_suspended_desc' => null,
     'developed_by' => 'розроблено',
     'email_templates' => 'Шаблони електронних листів',
     'are_you_sure' => 'Ви впевнені',
@@ -850,4 +852,4 @@
     'schedule_email_datetime' => 'Заплануйте дату й час електронної пошти',
     'schedule' => 'Шедулер',
     'show_email_in_history' => 'Чи можуть користувачі бачити цей електронний лист у своїй історії електронних листів у клієнтській області?',
-);
+];

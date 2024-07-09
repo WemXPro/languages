@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => 'Nombre',
     'email' => 'Email',
@@ -572,4 +574,4 @@
     'undo_canceled_resp' => 'La cancelación se ha deshecho, tu plan se ha reiniciado',
     'panel_login_mess' => 'Algo salió mal, por favor contacta a un administrador.',
     'default' => 'Default',
-);
+];

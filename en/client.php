@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'choose_domain' => 'Choose a domain...',
     'reg_new_domain' => 'Register new domain',
     'use_own_domain' => 'Use your own domain',
@@ -630,4 +632,4 @@
     'your_platform_subscription_subject' => 'Your :platform subscription is now active',
     'your_platform_subscription_content' => 'Your subscription on <strong>:platform</strong> is now active for <strong>:description</strong>. You may use the button below to manage your subscription directly on <strong>:platform</strong>.',
     'manage_subscription' => 'Manage Subscription',
-);
+];

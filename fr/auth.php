@@ -1,4 +1,6 @@
-<?php return array (
+<?php
+
+return [
     'oauth_failed' => 'Échec de l\'authentification : Veuillez contacter un administrateur, des erreurs ont été enregistrées.',
     'oauth_callback_error' => 'Quelque chose s\'est mal passé, veuillez réessayer.',
     'reauth_double_warning' => 'Vous avez déjà réauthentifié',
@@ -122,4 +124,4 @@
     'password_reset' => 'Réinitialisation du mot de passe',
     'password_reset_content' => 'Vous avez demandé un jeton de réinitialisation de mot de passe',
     'view_2fa_secretcode' => 'Survolez le code QR pour afficher le code 2FA à saisir manuellement dans votre application d\'authentification préférée',
-);
+];

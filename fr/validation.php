@@ -75,6 +75,5 @@ return [
     'uploaded' => 'Le fichier :attribute n\'a pas pu être téléchargé.',
     'url' => 'Le format de :attribute est invalide.',
 
-    
     'attributes' => [],
 ];

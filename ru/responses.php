@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'group_create_success' => 'Группа :name успешно создана.',
     'group_delete_success' => 'Группа :name успешно удалена.',
     'create_success' => 'Категория :name успешно создана.',
@@ -136,4 +138,4 @@
     'server_reinstall_successfully' => 'Сервер успешно переустановлен',
     'docker_image_successfully' => 'Образ Docker успешно установлен',
     'all_nodes_full_in_location' => 'Все узлы выбранной локации переполнены, попробуйте другую локацию или свяжитесь с администратором',
-);
+];

@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'group_create_success' => 'Group :name created successfully.',
     'group_delete_success' => 'Group :name deleted successfully.',
     'create_success' => 'The category :name created successfully.',
@@ -136,4 +138,4 @@
     'server_reinstall_successfully' => 'Server reinstalled successfully',
     'docker_image_successfully' => 'Docker image set successfully',
     'all_nodes_full_in_location' => 'All nodes of the selected location are full, try another location or contact an administrator',
-);
+];

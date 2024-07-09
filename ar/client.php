@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'choose_domain' => 'اختر نطاقًا...',
     'reg_new_domain' => 'تسجيل نطاق جديد',
     // 'title' => 'The Right Choose for your hosting',
@@ -36,7 +38,7 @@
     'refunded' => 'مُسترد',
     'actions' => 'الإجراءات',
     'no_records_found' => 'لم يتم العثور على سجلات',
-    'no_records_found_description' => "ليس لديك أي :object، ستظهر :object الجديدة هنا",
+    'no_records_found_description' => 'ليس لديك أي :object، ستظهر :object الجديدة هنا',
     'no_record_found_desc' => 'لم تقم بدفع أي فواتير حتى الآن، ستظهر الفواتير المدفوعة هنا',
     'invoice' => 'الفاتورة',
     'payment_not_received' => 'لم يتم استلام الدفعة بعد.',
@@ -467,4 +469,4 @@
     'custom_options' => 'خيارات مخصصة',
     'custom_options_desc' => 'قم بتخصيص خيارات الخدمة الخاصة بك لحزمتك',
     'games' => 'الألعاب',
-);
+];

@@ -73,6 +73,6 @@ return [
     'unique' => 'لقد تم أخذ :attribute بالفعل.',
     'uploaded' => 'فشل في تحميل :attribute.',
     'url' => 'صيغة :attribute غير صالحة.',
-    
-    'attributes' => [],    
+
+    'attributes' => [],
 ];

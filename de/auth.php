@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'oauth_failed' => 'Authentifizierung fehlgeschlagen: Bitte wende dich an einen Administrator, Fehler wurden protokolliert.',
     'oauth_callback_error' => 'Es ist ein Fehler aufgetreten, bitte versuche es erneut.',
     'reauth_double_warning' => 'Du hast dich bereits neu authentifiziert',
@@ -118,4 +120,4 @@
     'two_factor_authentication' => 'Zwei-Faktor-Authentifizierung',
     '2fa_code' => '2FA Code',
     'verify_2fa_code' => '2FA verifizieren',
-);
+];

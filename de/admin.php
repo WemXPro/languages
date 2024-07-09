@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => 'Name',
     'email' => 'Email',
@@ -579,4 +581,4 @@
     'undo_canceled_resp' => 'Die Stornierung wurde rückgängig gemacht, der Plan wurde neu gestartet',
     'panel_login_mess' => 'Etwas ist schief gelaufen, bitte kontaktiere einen Administrator.',
     'default' => 'Default',
-);
+];

@@ -1,4 +1,6 @@
-<?php return array (
+<?php
+
+return [
     'choose_domain' => 'Choisissez un domaine...',
     'reg_new_domain' => 'Enregistrer un nouveau domaine',
     'use_own_domain' => 'Utiliser votre propre domaine',
@@ -578,4 +580,4 @@
     'auto_renew_with_balance' => 'Renouvellement automatique avec le solde',
     'insufficient_balance_to_auto_renew' => 'Vous devez avoir au moins :amount dans votre solde pour le renouvellement automatique',
     'auto_renew_with_balance_enabled_email' => 'Le renouvellement automatique avec solde a été activé pour votre :order. Vous serez débité de votre solde lorsque le service devra être renouvelé.',
-);
+];

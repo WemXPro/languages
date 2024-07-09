@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => 'Имя',
     'email' => 'Электронная почта',
@@ -833,4 +835,4 @@
     'count' => 'Количество',
     'queue_worker_not_setup' => 'Работник очереди не настроен! Пожалуйста, включите работника очереди, вы можете найти больше информации здесь: <a href="https://docs.wemx.net/en/project/queue-worker" target="_blank">https://docs.wemx.net/en/project/queue-worker</a>',
     'location_full' => '(Это местоположение полное и недоступно)',
-);
+];
