@@ -906,4 +906,5 @@ return [
     'allow_custom_renewal_date_desc' => 'Do you want to allow clients to select a custom date when renewing an order?',
     'minimum_advance_days_custom_date' => 'Minimum advance days for custom date',
     'minimum_advance_days_custom_date_desc' => 'What is the minimum number of days in advance a client can select a custom renewal date?',
+    'widgets' => 'Widgets',
 ];
