@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'oauth_failed' => 'Authentication Failed: Please contact an Administrator, errors have been logged.',
     'oauth_callback_error' => 'Something went wrong, please try again.',
     'reauth_double_warning' => 'You have already reauthenticated',
@@ -51,7 +53,7 @@
     'verify_account' => 'Verify account',
     'forgot_password' => 'Forgot Password',
     'email' => 'Email',
-    'request_reset_password' => 'Request Reset Password',
+    'request_reset_password' => 'Request Password Reset',
     'remember_password' => 'Remember your password?',
     'sign_in' => 'Sign In',
     'welcome_back' => 'Welcome back',
@@ -65,8 +67,6 @@
     'first_name' => 'First Name',
     'account_details' => 'Account details',
     'reset_password' => 'Reset Password',
-    'new_password' => 'New Password',
-    'confirm_new_password' => 'Confirm New Password',
     'happy_customers' => 'Happy Customers',
     'over' => 'Over',
     'email_or_username' => 'Email or Username',
@@ -124,4 +124,14 @@
     'password_reset' => 'Password Reset',
     'password_reset_content' => 'You have requested a password reset token',
     'view_2fa_secretcode' => 'Hover over the QR-code to view the 2FA code to manually enter into your favorite authenticator',
-);
+    'user_email_updated_subject' => 'Your email has been updated',
+    'user_email_updated_content' => 'Your email has been updated to a new email address: <strong>:new_email</strong>. If you did not make this change, take action immediately.',
+    'user_password_updated_subject' => 'Your password has been changed',
+    'user_password_updated_content' => 'Your password has been changed for account with email <strong>:email</strong>. If you did not make this change, take action immediately.',
+    'user_2fa_enabled_subject' => '2FA has been enabled for your account',
+    'user_2fa_enabled_content' => 'Two Factor Authentication has been enabled for your account. If you did not make this change, take action immediately.',
+    'user_2fa_disabled_subject' => '2FA has been disabled for your account',
+    'user_2fa_disabled_content' => 'Two Factor Authentication has been disabled for your account. If you did not make this change, take action immediately.',
+    'user_new_login_subject' => 'New login on :app_name',
+    'user_new_login_content' => 'A new login has been detected from <strong>:ip_address</strong> on <strong>:app_name</strong>. If this was you, you can ignore this email. If this was not you, take action immediately.',
+];

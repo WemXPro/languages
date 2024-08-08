@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'choose_domain' => 'اختر نطاقًا...',
     'reg_new_domain' => 'تسجيل نطاق جديد',
     // 'title' => 'The Right Choose for your hosting',
@@ -36,7 +38,7 @@
     'refunded' => 'مُسترد',
     'actions' => 'الإجراءات',
     'no_records_found' => 'لم يتم العثور على سجلات',
-    'no_records_found_description' => "ليس لديك أي :object، ستظهر :object الجديدة هنا",
+    'no_records_found_description' => 'ليس لديك أي :object، ستظهر :object الجديدة هنا',
     'no_record_found_desc' => 'لم تقم بدفع أي فواتير حتى الآن، ستظهر الفواتير المدفوعة هنا',
     'invoice' => 'الفاتورة',
     'payment_not_received' => 'لم يتم استلام الدفعة بعد.',
@@ -145,8 +147,8 @@
     'resources' => 'الموارد',
     'legal' => 'القانونية',
     'all_rights_reserved' => 'جميع الحقوق محفوظة.',
-    'price_block_desc' => 'أول :period :symbol:total_price ثم :symbol:renewal_price لكل :per_period',
-    'price_onetime_block_desc' => 'تدفع :symbol:price مرة واحدة للحصول على الوصول إلى الأبد',
+    'price_block_desc' => 'أول :period :total_price ثم :renewal_price لكل :per_period',
+    'price_onetime_block_desc' => 'تدفع :price مرة واحدة للحصول على الوصول إلى الأبد',
     'enter_domain' => 'أدخل النطاق',
     'enter_domain_desc' => 'يرجى إدخال النطاق الذي تريد استخدام هذه الخدمة فيه.',
     'domain' => 'النطاق',
@@ -335,7 +337,7 @@
     'ptero_alerts_failed_server_desc' => 'حاولنا إنشاء خادم لك، ولكن حدث خطأ ما. يرجى الاتصال بمدير النظام للتحقق من الطلب من منطقة الإدارة للحصول على سجلات أكثر تفصيلاً.',
     'login_to_panel' => 'تسجيل الدخول إلى اللوحة',
     'cancel_plan' => 'إلغاء الخطة',
-    'ptero_cancellation_fee_info' => 'مهم!</span> تتضمن باقتك رسوم إلغاء قدرها :symbol:cancellation_fee والتي يجب دفعها لإلغاء الخدمة',
+    'ptero_cancellation_fee_info' => 'مهم!</span> تتضمن باقتك رسوم إلغاء قدرها :cancellation_fee والتي يجب دفعها لإلغاء الخدمة',
     'cancel_at_end_of_term' => 'إلغاء في نهاية الفترة',
     'service_cancelled_gracefully_at_due_date' => 'سيتم إلغاء خدمتك بشكل لطيف في تاريخ الاستحقاق: :due_date',
     'cancel_immediately' => 'إلغاء فوري',
@@ -467,4 +469,4 @@
     'custom_options' => 'خيارات مخصصة',
     'custom_options_desc' => 'قم بتخصيص خيارات الخدمة الخاصة بك لحزمتك',
     'games' => 'الألعاب',
-);
+];

@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => 'Nama',
     'email' => 'Email',
@@ -247,7 +249,7 @@
     'cancelled_at_service_desc' => 'Tanggal layanan akan dibatalkan. Hanya dapat diisi jika statusnya dibatalkan',
     'new_due_date_desc' => 'Tanggal jatuh tempo saat ini',
     'new_due_date' => 'Tanggal Jatuh Tempo Baru',
-    'cancel_service_modal_body' => 'Layanan ini memiliki biaya pembatalan sebesar <a class="alert-link">:currency :price</a>
+    'cancel_service_modal_body' => 'Layanan ini memiliki biaya pembatalan sebesar <a class="alert-link">:price</a>
                                   - Biaya pembatalan akan dihapus saat Anda melanjutkan dengan pembatalan di bawah ini.',
     'order' => 'Pesanan',
     'cancellation_confirm_order_warn' => 'Anda akan menghentikan layanan ini. Menghentikan dapat menghapus semua data termasuk file atau server pada aplikasi pihak ketiga. Proses ini tidak dapat dibatalkan.',
@@ -558,7 +560,7 @@
     'pterodactyl_url' => 'URL Pterodactyl',
     'pterodactyl_url_desc' => 'Masukkan URL panel Pterodactyl Anda agar API dapat berkomunikasi dengan Pterodactyl. Contoh: <code>https://panel.example.com</code>',
     'pterodactyl_api_key' => 'Kunci API Pterodactyl',
-'pterodactyl_api_key_desc' => 'Anda dapat menghasilkan kunci API baru di <code>https://panel.example.com/admin/api</code>. Pastikan memberikan izin BACA & TULIS untuk semua izin.',
+    'pterodactyl_api_key_desc' => 'Anda dapat menghasilkan kunci API baru di <code>https://panel.example.com/admin/api</code>. Pastikan memberikan izin BACA & TULIS untuk semua izin.',
     'pterodactyl_sso_key' => 'Kunci Rahasia Pterodactyl SSO',
     'pterodactyl_sso_key_desc' => 'Anda dapat menemukan informasi lebih lanjut tentang cara mengatur Pterodactyl SSO di sini:',
     'pterodactyl' => 'Pterodactyl',
@@ -664,4 +666,4 @@
     'no_bans_found_desc' => 'Berita baik, kami tidak memiliki pemblokiran',
     'no_warnings_found' => 'Tidak ada peringatan ditemukan',
     'no_warnings_found_desc' => 'Berita baik, kami tidak memiliki peringatan',
-);
+];

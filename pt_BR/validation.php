@@ -75,6 +75,5 @@ return [
     'uploaded' => 'O :attribute não pôde ser enviado.',
     'url' => 'O formato do :attribute é inválido.',
 
-
     'attributes' => [],
 ];

@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'oauth_failed' => 'Autoryzacja nie powiodła się: Skontaktuj się z administratorem, błędy zostały zapisane.',
     'oauth_callback_error' => 'Coś poszło nie tak, spróbuj ponownie.',
     'reauth_double_warning' => 'Już ponownie uwierzytelniono',
@@ -122,5 +124,5 @@
     'verify_2fa_code' => 'Zweryfikuj 2FA',
     'log_in' => 'Zaloguj się',
     'password_reset' => 'Reset hasła',
-    'password_reset_content' => 'Poprosiłeś o token resetujący hasło'
-);
+    'password_reset_content' => 'Poprosiłeś o token resetujący hasło',
+];

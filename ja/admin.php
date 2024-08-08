@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => '名前',
     'email' => 'メール',
@@ -249,7 +251,7 @@
     'cancelled_at_service_desc' => 'サービスがキャンセルされる予定の日付。ステータスがキャンセルされている場合のみ入力可能です',
     'new_due_date_desc' => '現在の支払い期日',
     'new_due_date' => '新しい支払い期日',
-    'cancel_service_modal_body' => 'このサービスにはキャンセル手数料が<a class="alert-link">:currency :price</a> があります。
+    'cancel_service_modal_body' => 'このサービスにはキャンセル手数料が<a class="alert-link">:price</a> があります。
                                   キャンセルを続行すると、キャンセル手数料は免除されます。',
     'order' => '注文',
     'cancellation_confirm_order_warn' => 'このサービスを終了しようとしています。終了すると、ファイルやサーバーなどのサードパーティアプリケーションのデータがすべて削除される可能性があります。このプロセスは元に戻せません。',
@@ -647,4 +649,4 @@
     'expires_in' => '有効期限',
     'punishments_on_record' => '記録されている処罰',
     'history_of_punishments' => 'このユーザーはルールを破った履歴があり、合計 :number 回違反しています。',
-);
+];

@@ -74,7 +74,6 @@ return [
     'unique' => ':attribute ist bereits vergeben.',
     'uploaded' => ':attribute Hochladen fehlgeschlagen.',
     'url' => ':attribute Format ist ungültig.',
-    
 
     'attributes' => [],
 ];

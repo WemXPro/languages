@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'group_create_success' => 'Gruppe :name erfolgreich erstellt.',
     'group_delete_success' => 'Gruppe :name erfolgreich gelöscht.',
     'create_success' => 'Die Kategorie :name wurde erfolgreich erstellt.',
@@ -97,4 +99,4 @@
     'your_payment_failed' => 'Dein Konto hat nicht genügend Guthaben, um diesen Kauf durchzuführen.',
     'webhook_handled' => 'Webhook verarbeitet',
     'refund_payment_notify' => 'Die Zahlung :payment_id wurde an dich zurückerstattet.',
-);
+];

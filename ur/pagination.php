@@ -1,5 +1,7 @@
-<?php return array(
-   'previous' => 'پچھلا',
-   'next' => 'اگلا',
-   
-);
+<?php
+
+return [
+    'previous' => 'پچھلا',
+    'next' => 'اگلا',
+
+];

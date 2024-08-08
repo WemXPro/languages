@@ -1,4 +1,6 @@
-<?php return array(
+<?php
+
+return [
     'id' => 'ID',
     'name' => 'Name',
     'email' => 'Email',
@@ -249,7 +251,7 @@
     'cancelled_at_service_desc' => 'Das Datum, an dem der Service storniert werden soll. Nur ausfüllbar, wenn der Status storniert ist.',
     'new_due_date_desc' => 'Das aktuelle Fälligkeitsdatum',
     'new_due_date' => 'neues Fälligkeitsdatum',
-    'cancel_service_modal_body' => 'Dieser Dienst hat eine Stornierungsgebühr von <a class="alert-link">:currency :price</a>
+    'cancel_service_modal_body' => 'Dieser Dienst hat eine Stornierungsgebühr von <a class="alert-link">:price</a>
                                   - Die Stornierungsgebühr wird erlassen, wenn du mit der Stornierung unten fortfährst.',
     'order' => 'Bestellung',
     'cancellation_confirm_order_warn' => 'Du bist im Begriff, diesen Dienst zu beenden. Durch die Beendigung werden möglicherweise alle Daten,
@@ -579,4 +581,4 @@
     'undo_canceled_resp' => 'Die Stornierung wurde rückgängig gemacht, der Plan wurde neu gestartet',
     'panel_login_mess' => 'Etwas ist schief gelaufen, bitte kontaktiere einen Administrator.',
     'default' => 'Default',
-);
+];
