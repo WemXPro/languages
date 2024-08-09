@@ -115,7 +115,7 @@ return [
     'backup_delete_successfully' => 'Резервная копия удалена успешно',
     'backup_restore_successfully' => 'Резервная копия восстановлена успешно',
     'ptero_failed_connect' => 'Не удалось подключиться к Pterodactyl | Пакет SSO больше не установлен https://docs.wemx.net/en/third-party/pterodactyl#pterodactyl-sso',
-    'power_action_not supported' => 'Действие управления питанием не поддерживается',
+    'power_action_not_supported' => 'Power action is not supported',
     'power_action_has_sent' => 'Действие управления питанием отправлено',
     'not_configured_function' => 'Эта функция не настроена. Сообщите об этом администрации',
     'database_create_successfully' => 'База данных успешно создана',

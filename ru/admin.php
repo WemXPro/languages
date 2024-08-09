@@ -144,11 +144,7 @@ return [
     'code' => 'Код',
     'user_left' => 'Остальные использования',
     'important' => 'Важно',
-    'important_emails_page' => '
-                Данные SMTP хранятся в вашем файле <code>:path</code>. Для обновления вы можете отредактировать
-                этот файл и обновить соответствующие значения. <br><br>
-                Вы можете настроить внутренний SMTP-сервер или использовать такие услуги, как Google, MailGun, TrapMail и т. д... <br>
-                Документация: <a target=\'_blank\' href=\'https://docs.wemx.net/en/setup/mail-configuration\'>https://docs.wemx.net/en/setup/mail-configuration</a>',
+    'important_emails_page' => 'Данные SMTP хранятся в вашем файле <code>:path</code>. Для обновления вы можете отредактировать этот файл и обновить соответствующие значения. <br><br> Вы можете настроить внутренний SMTP-сервер или использовать такие услуги, как Google, MailGun, TrapMail и т. д... <br> Документация: <a target=\'_blank\' href=\'https://docs.wemx.net/en/setup/mail-configuration\'>https://docs.wemx.net/en/setup/mail-configuration</a>',
     'confirm' => 'Подтвердите',
     'test_mail_modal' => 'Мы отправим тестовое письмо на',
     'test_connection' => 'Проверить соединение',
@@ -168,22 +164,22 @@ return [
     'client' => 'Клиент',
     'email_history' => 'История писем',
     'email_welcome_desc' => 'Напишите приветственное сообщение для новых клиентов',
-    'email_service_new_device_detect_desc' => ' ',
+    'email_service_new_device_detect_desc' => null,
     'email_service_new_device_detect_title' => 'Обнаружено новое устройство',
-    'email_service_terminated_desc' => ' ',
+    'email_service_terminated_desc' => null,
     'email_service_terminated_title' => 'Услуга прекращена',
     'email_content' => 'Содержание письма',
     'email_outro' => 'Заключение письма',
     'email_outro_desc' => 'Заключительные сообщения, включенные в конце всех отправленных писем.',
     'email_welcome_title' => 'Приветственное письмо',
     'email_payment_paid_title' => 'Оплата выполнена',
-    'email_payment_paid_desc' => ' ',
+    'email_payment_paid_desc' => null,
     'email_processing_refund_title' => 'Обработка возврата средств',
-    'email_processing_refund_desc' => ' ',
+    'email_processing_refund_desc' => null,
     'email_service_cancelled_title' => 'Услуга отменена',
-    'email_service_cancelled_desc' => ' ',
+    'email_service_cancelled_desc' => null,
     'email_service_suspended_title' => 'Услуга приостановлена',
-    'email_service_suspended_desc' => ' ',
+    'email_service_suspended_desc' => null,
     'developed_by' => 'разработано',
     'email_templates' => 'Шаблоны электронной почты',
     'are_you_sure' => 'Вы уверены',
@@ -216,10 +212,7 @@ return [
     'price' => 'Цена',
     'package' => 'Пакет',
     'user' => 'Пользователь',
-    'create_instance_package_service_desc' => 'Если эта опция включена, при создании заказа также будет создан
-                                        экземпляр Пакетной Услуги. Например, если пакетная услуга
-                                        это pterodactyl, при создании заказа будет создан новый сервер pterodactyl 
-                                        вместе с ним.',
+    'create_instance_package_service_desc' => 'Если эта опция включена, при создании заказа также будет создан экземпляр Пакетной Услуги. Например, если пакетная услуга это pterodactyl, при создании заказа будет создан новый сервер pterodactyl вместе с ним.',
     'create_instance_package_service' => 'Создать экземпляр пакетной услуги',
     'last_renewed_at' => 'Последнее обновление в',
     'optional' => '(необязательно)',
@@ -245,16 +238,12 @@ return [
     'suspend' => 'Приостановить',
     'service_cancelled' => 'Эта услуга была отменена',
     'price_data_warn_price' => 'Пожалуйста, воздержитесь от изменения данных о цене на услуги, продолжайте, только если вы уверены в том, что делаете, и знаете правильный синтаксис.',
-    'price_data_service_desc' => 'Измените данные о цене для каждого заказа, используя это поле. Чтобы изменить цену за определенный период (ежедневно, еженедельно, ежемесячно,
-                                ежеквартально, ежегодно), внесите изменения в значение "renewal_price". Значение "period" определяет
-                                продолжительность и измеряется в днях. Используйте "1" для ежедневно, "7" для еженедельно, "31" 
-                                для ежемесячно, "93" для ежеквартально, и "365" для ежегодно. Любые другие числа представляют пользовательские продолжительности, измеренные в днях.',
+    'price_data_service_desc' => 'Измените данные о цене для каждого заказа, используя это поле. Чтобы изменить цену за определенный период (ежедневно, еженедельно, ежемесячно, ежеквартально, ежегодно), внесите изменения в значение "renewal_price". Значение "period" определяет продолжительность и измеряется в днях. Используйте "1" для ежедневно, "7" для еженедельно, "31" для ежемесячно, "93" для ежеквартально, и "365" для ежегодно. Любые другие числа представляют пользовательские продолжительности, измеренные в днях.',
     'price_data' => 'Данные цены',
     'cancelled_at_service_desc' => 'Дата, на которую запланирована отмена услуги. Заполняется только если статус отменен',
     'new_due_date_desc' => 'Текущая дата платежа',
     'new_due_date' => 'Новая дата платежа',
-    'cancel_service_modal_body' => 'За эту услугу предусмотрена плата за отмену <a class="alert-link">:price</a>
-                                  - Плата за отмену будет аннулирована, когда вы продолжите отмену ниже.',
+    'cancel_service_modal_body' => 'За эту услугу предусмотрена плата за отмену <a class="alert-link">:currency :price</a> - Плата за отмену будет аннулирована, когда вы продолжите отмену ниже.',
     'order' => 'Заказ',
     'cancellation_confirm_order_warn' => 'Вы собираетесь завершить эту услугу. Прекращение может привести к удалению всех данных, включая файлы или серверы на сторонних приложениях. Этот процесс невозможно отменить.',
     'cancellation_order_email_desc' => 'Оставьте это поле пустым, чтобы не отправлять пользователю уведомление по электронной почте о новой дате платежа.',
@@ -300,7 +289,7 @@ return [
     'daily' => 'Ежедневно',
     'once' => 'Один раз',
     'just_once' => 'Только один раз',
-    'editing_price_cycle' => 'Редактирование цикла ценообразовав',
+    'editing_price_cycle' => 'Редактирование цикла ценообразования',
     'per_client_stock' => 'Запас на клиента',
     'global_stock_package_desc' => 'Кол-во запасов на клиента указывает лимит запасов на клиента. Установите <code>-1</code>, чтобы разрешить неограниченное количество',
     'global_stock' => 'Общий запас',
@@ -470,8 +459,8 @@ return [
     'service_options' => 'Настройки услуги',
     'service_options_warn' => 'Не рекомендуется изменять настройки услуги без определенных знаний. Продолжайте только если вы уверены в своих действиях и знаете правильный синтаксис.',
     'try_again_order_desc' => 'Произошла ошибка, пожалуйста, попробуйте еще раз',
-    'theme_warning' => 'тема не имеет настраиваемых параметров.',
-    'portal_warning' => 'портал не имеет настраиваемых параметров.',
+    'theme_warning' => 'Тема не имеет настраиваемых параметров.',
+    'portal_warning' => 'Портал не имеет настраиваемых параметров.',
     'popular' => 'Популярное',
     'send' => 'Отправить',
     'gateway_details' => 'Детали шлюза',
@@ -486,7 +475,7 @@ return [
     'packages_not_found' => 'Пакеты не найдены',
     'packages_not_found_desc' => 'На данный момент созданных пакетов нет',
     'inactive' => 'Неактивно',
-    'never' => 'никогда',
+    'never' => 'Никогда',
     'group_permissions' => 'Права доступа группы',
     'resolve' => 'Разрешить',
     'maintenance_mode_desc' => 'Режим обслуживания включен, вы обходите режим обслуживания',
@@ -585,37 +574,14 @@ return [
     'instruction' => 'Инструкции',
     'email_suspended_subject' => 'Ваша услуга была приостановлена',
     'email_suspended_button' => 'Возобновить услугу',
-    'email_suspended_content' => '
-                    <br><br>
-                    Детали услуги: <br>
-                    &bull; ID: #:order_id <br>
-                    &bull; Название услуги: :order_name <br>
-                    &bull; Сумма продления: :amount_rounded / :period <br>
-                    &bull; Дата оплаты: :due_date <br><br>
-                    ',
+    'email_suspended_content' => '<br><br>                    Детали услуги: <br>                    &bull; ID: #:order_id <br>                    &bull; Название услуги: :order_name <br>                    &bull; Сумма продления: :amount_rounded / :period <br>                    &bull; Дата оплаты: :due_date <br><br>',
     'email_terminated_subject' => 'Ваша услуга была завершена',
-    'email_terminated_content' => '                    <br><br>
-                    Детали услуги: <br>
-                    &bull; ID: #:order_id <br>
-                    &bull; Название услуги: :order_name <br>
-                    &bull; Сумма продления: :amount / :period <br>
-                    &bull; Дата оплаты: :due_date <br><br>
-                    ',
+    'email_terminated_content' => '<br><br>                    Детали услуги: <br>                    &bull; ID: #:order_id <br>                    &bull; Название услуги: :order_name <br>                    &bull; Сумма продления: :amount / :period <br>                    &bull; Дата оплаты: :due_date <br><br>',
     'email_manage_button' => 'Управление заказом',
     'order_create_email_subject' => 'Ваш заказ готов к использованию.',
-    'order_create_email_content' => '                <br><br>
-                    Детали заказа: <br>
-                    &bull; ID: #:order_id <br>
-                    &bull; Название заказа: :order_name <br>
-                    &bull; Дата оплаты: :due_date <br><br>                ',
+    'order_create_email_content' => '<br><br>                    Детали заказа: <br>                    &bull; ID: #:order_id <br>                    &bull; Название заказа: :order_name <br>                    &bull; Дата оплаты: :due_date <br><br>',
     'order_extended_email_subject' => 'Ваш заказ был продлен',
-    'extension_order_email_content' => '                    <br><br>
-                    Детали продления: <br>
-                    &bull; ID заказа: #:order_id <br>
-                    &bull; Название услуги: :order_name <br>
-                    &bull; Предыдущая дата оплаты: :old_due_date <br>
-                    &bull; Новая дата оплаты: :new_due_date <br><br>
-                    ',
+    'extension_order_email_content' => '<br><br>                    Детали продления: <br>                    &bull; ID заказа: #:order_id <br>                    &bull; Название услуги: :order_name <br>                    &bull; Предыдущая дата оплаты: :old_due_date <br>                    &bull; Новая дата оплаты: :new_due_date <br><br>',
     'balance_update_by' => 'Баланс обновлен :auth_user_username',
     'verify' => 'Подтвердить',
     'email_code' => 'Код:',
@@ -710,7 +676,7 @@ return [
     'migrating_seeding_database' => 'Миграция и заполнение базы данных',
     'installed_successfully_please_refresh_page' => 'Обновление успешно установлено, пожалуйста, обновите страницу.',
     'updater_requires_root_user_permissions' => 'Ошибка обновления: для работы обновления требуются права суперпользователя. Обновите crontab от имени суперпользователя',
-    'update_failed' => 'Обновление не удалось: ',
+    'update_failed' => 'Обновление не удалось:',
     'failed_connect_remote_server_try_again' => 'Не удалось подключиться к удаленному серверу, пожалуйста, попробуйте еще раз.',
     'translations' => 'Переводы',
     'create_translation' => 'Создать перевод',
@@ -810,7 +776,6 @@ return [
     'reinstall' => 'Переустановить',
     'terminate_order_after_days' => 'Завершить заказы после дней',
     'maxmimum_members_per_order' => 'Максимально разрешенное количество участников на заказ',
-    'seo' => 'SEO',
     'keywords' => 'Ключевые слова',
     'online_users' => 'Пользователи онлайн',
     'available_disk' => 'Доступный диск',
@@ -835,4 +800,47 @@ return [
     'count' => 'Количество',
     'queue_worker_not_setup' => 'Работник очереди не настроен! Пожалуйста, включите работника очереди, вы можете найти больше информации здесь: <a href="https://docs.wemx.net/en/project/queue-worker" target="_blank">https://docs.wemx.net/en/project/queue-worker</a>',
     'location_full' => '(Это местоположение полное и недоступно)',
+    'latest' => 'Последний',
+    'vissibility' => 'Видимость',
+    'desing_by' => 'Дизайн от',
+    'default_theme_color' => 'Цвет темы по умолчанию',
+    'edit_email_alert' => 'WemX уже отправляет набор писем при отмене, приостановке или завершении заказа. Вы можете настроить их <a target="_blank" href="/admin/emails/messages"><strong>здесь</strong></a>. Эта страница предоставляет вам больше возможностей для настройки отправки пакета писем.',
+    'allow_user_upgrade' => 'Да, разрешить пользователям обновляться',
+    'disable_user_upgrade' => 'Нет, запретить обновление для этого пакета',
+    'webhooks_desc' => 'Вебхуки пакетов - мощная функция, позволяющая выполнять множество задач. Вы также можете использовать пользовательские переменные внутри вебхуков.',
+    'learn_more' => 'Узнать больше',
+    'allow_cancellation' => 'Разрешить отмену',
+    'allow_cancellation_desc' => 'Разрешить пользователям отменять этот пакет',
+    'allow_package_cancellation' => 'Да, разрешить отмену пакета',
+    'disable_package_cancellation' => 'Нет, запретить отмену пакета',
+    'default_avatar' => 'Аватар по умолчанию',
+    'allow_custom_avatars' => 'Разрешить настраиваемые аватары',
+    'allow_custom_avatars_description' => 'Разрешить зарегистрированным пользователям загружать настраиваемые аватары',
+    'sort_by' => 'Сортировать по',
+    'subscribed' => 'Подписан',
+    'random' => 'Случайный',
+    'filter' => 'Фильтр',
+    'operator' => 'Оператор',
+    'force_staff_2fa' => 'Принудительно использовать двухфакторную аутентификацию для сотрудников',
+    'force_staff_2fa_description' => 'Принудительно использовать двухфакторную аутентификацию для сотрудников в вашем приложении',
+    '2fa_setup_required' => 'Настройка двухфакторной аутентификации обязательна для сотрудников',
+    'email_deleted_success' => 'Электронное письмо успешно удалено',
+    'terminate_user_orders' => 'Завершить все заказы, принадлежащие этому пользователю',
+    'enable_cloudflare_proxy_integration' => 'Приложение обнаружило прокси CloudFlare. Включите интеграцию с помощью <code>php artisan cloudflare:enable</code>',
+    'equals' => 'Равно',
+    'not_equals' => 'Не равно',
+    'contains' => 'Содержит',
+    'not_contains' => 'Не содержит',
+    'greater_than' => 'Больше чем',
+    'less_than' => 'Меньше чем',
+    'remove_filter' => 'Удалить фильтр',
+    'add_filter' => 'Добавить фильтр',
+    'moderation' => 'Модерация',
+    'allow_staff_sso_logins' => 'Разрешить сотрудникам входить с использованием SSO',
+    'allow_staff_sso_logins_description' => 'Разрешить сотрудникам входить с использованием единого входа (SSO)',
+    'account_created_email_subject' => 'Ваш аккаунт :service был создан',
+    'account_created_email_content' => 'Ваш аккаунт :service был создан. Вы можете войти, используя следующие учетные данные: <br><br> Имя пользователя: :username <br> Пароль: :password',
+    'generate_password' => 'Создать пароль',
+    'verify_email' => 'Подтвердить электронную почту',
+    'verify_email_help' => 'Если отмечено, аккаунт будет активирован без подтверждения электронной почты',
 ];

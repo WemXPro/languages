@@ -1,7 +1,6 @@
 <?php
 
 return [
-
     'accepted' => 'Атрибут :attribute должен быть принят.',
     'active_url' => 'Атрибут :attribute не является допустимым URL.',
     'after' => 'Атрибут :attribute должен быть датой после :date.',
