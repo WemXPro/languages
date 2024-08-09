@@ -73,4 +73,6 @@ return [
     'unique' => 'Атрибут :attribute уже был взят.',
     'uploaded' => 'Атрибут :attribute не удалось загрузить.',
     'url' => 'Формат атрибута :attribute недействителен.',
+
+    'attributes' => [],
 ];
