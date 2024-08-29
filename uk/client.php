@@ -590,5 +590,6 @@ return [
     'order_successfully_renewed_content' => 'Ваше замовлення <strong>:order</strong> успішно поновлено до <strong>:due_date</strong>. Ми стягнули <strong>:amount</strong> з вашого балансу.',
     'custom_option' => 'Параметри',
     'custom_option_desc' => 'Налаштуйте параметри послуг для свого пакету',
+    'plugins' => 'Плагіни',
 
 ];
