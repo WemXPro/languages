@@ -588,8 +588,6 @@ return [
     'insufficient_balance_to_renew_content' => 'У вас недостатньо балансу для автоматичного поновлення <strong>:order</strong>, ваше замовлення має бути виконано <strong>:due_date</strong>. Будь ласка, додайте кошти на свій рахунок, щоб уникнути будь-яких перебоїв у наданні послуг.',
     'order_successfully_renewed_subject' => 'Ваше замовлення успішно поновлено [:order #:id]',
     'order_successfully_renewed_content' => 'Ваше замовлення <strong>:order</strong> успішно поновлено до <strong>:due_date</strong>. Ми стягнули <strong>:amount</strong> з вашого балансу.',
-    'custom_option' => 'Параметри',
-    'custom_option_desc' => 'Налаштуйте параметри послуг для свого пакету',
     'plugins' => 'Плагіни',
 
 ];
