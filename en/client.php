@@ -633,4 +633,6 @@ return [
     'your_platform_subscription_content' => 'Your subscription on <strong>:platform</strong> is now active for <strong>:description</strong>. You may use the button below to manage your subscription directly on <strong>:platform</strong>.',
     'manage_subscription' => 'Manage Subscription',
     'plugins' => 'Plugins',
+    'configurable_options' => 'Configurable Options',
+    'configurable_options_desc' => 'Configurable options allow you to customize your product.',
 ];
