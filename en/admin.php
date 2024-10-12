@@ -907,4 +907,6 @@ return [
     'minimum_advance_days_custom_date' => 'Minimum advance days for custom date',
     'minimum_advance_days_custom_date_desc' => 'What is the minimum number of days in advance a client can select a custom renewal date?',
     'widgets' => 'Widgets',
+    'allow_auto_balance_renewal' => 'Allow auto balance renewal',
+    'allow_auto_balance_renewal_desc' => 'Allow users to enable auto balance renewal for their orders',
 ];
