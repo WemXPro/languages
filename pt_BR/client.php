@@ -331,7 +331,7 @@ return [
     'ptero_alerts_failed_server_desc' => 'Nós tentamos criar um servidor para você, no entanto, algo deu errado. Por favor, entre em contato com um Administrador para verificar o pedido na área de administração para obter mais detalhes.',
     'login_to_panel' => 'Acesse o Painel',
     'cancel_plan' => 'Cancelar Plano',
-    'ptero_cancellation_fee_info' => 'Importante! Seu pacote inclui uma taxa de cancelamento de :symbol:cancellation_fee que deve ser paga para cancelar',
+    'ptero_cancellation_fee_info' => 'Importante! Seu pacote inclui uma taxa de cancelamento de :cancellation_fee que deve ser paga para cancelar',
     'cancel_at_end_of_term' => 'Cancelar no final do período',
     'service_cancelled_gracefully_at_due_date' => 'Seu serviço será cancelado de forma adequada na data de vencimento: :due_date',
     'cancel_immediately' => 'Cancelar imediatamente',
