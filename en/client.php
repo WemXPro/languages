@@ -635,4 +635,5 @@ return [
     'plugins' => 'Plugins',
     'configurable_options' => 'Configurable Options',
     'configurable_options_desc' => 'Configurable options allow you to customize your product.',
+    'mods' => 'Mods',
 ];
