@@ -317,7 +317,7 @@ return [
     'ptero_alerts_failed_server_desc' => 'サーバーの作成を試みましたが、何か問題が発生しました。詳細なログを確認するために、管理者からの注文をチェックするには、管理エリアからお問い合わせください。',
     'login_to_panel' => 'パネルにログイン',
     'cancel_plan' => 'プランをキャンセル',
-    'ptero_cancellation_fee_info' => '重要！</span> パッケージにはキャンセル手数料が含まれており、キャンセルするために支払う必要があります :symbol:cancellation_fee',
+    'ptero_cancellation_fee_info' => '重要！</span> パッケージにはキャンセル手数料が含まれており、キャンセルするために支払う必要があります :cancellation_fee',
     'cancel_at_end_of_term' => '期限切れ時にキャンセル',
     'service_cancelled_gracefully_at_due_date' => 'サービスは期限切れ時に優雅にキャンセルされます： :due_date',
     'cancel_immediately' => '即時キャンセル',

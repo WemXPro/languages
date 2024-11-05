@@ -300,7 +300,7 @@ return [
     'ptero_alerts_failed_server_desc' => 'Próbowaliśmy utworzyć serwer, ale coś poszło nie tak. Skontaktuj się z administratorem, aby sprawdzić zamówienie w obszarze administracyjnym w celu uzyskania bardziej szczegółowych dzienników.',
     'login_to_panel' => 'Zaloguj się do panelu',
     'cancel_plan' => 'Anuluj plan',
-    'ptero_cancellation_fee_info' => 'Ważne!</span> Pakiet obejmuje opłatę za anulowanie w wysokości :symbol:cancellation_fee które należy zapłacić, aby anulować',
+    'ptero_cancellation_fee_info' => 'Ważne!</span> Pakiet obejmuje opłatę za anulowanie w wysokości :cancellation_fee które należy zapłacić, aby anulować',
     'cancel_at_end_of_term' => 'Anuluj na koniec okresu',
     'service_cancelled_gracefully_at_due_date' => 'Usługa zostanie anulowana w odpowiednim terminie. :due_date',
     'cancel_immediately' => 'Anuluj natychmiast',
