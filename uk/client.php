@@ -589,6 +589,9 @@ return [
     'order_successfully_renewed_subject' => 'Ваше замовлення успішно поновлено [:order #:id]',
     'order_successfully_renewed_content' => 'Ваше замовлення <strong>:order</strong> успішно поновлено до <strong>:due_date</strong>. Ми стягнули <strong>:amount</strong> з вашого балансу.',
     'plugins' => 'Плагіни',
+    'configurable_options' => 'Конфігуровані параметри',
+    'configurable_options_desc' => 'Параметри, які можна налаштувати, дозволяють налаштувати продукт.',
     'mods' => 'Моди',
+    'options' => 'Параметри',
 
 ];
