@@ -290,7 +290,7 @@ return [
             &bull; Servicename: :name <br>
             &bull; Gnadenfrist bis: :period <br>
             &bull; Grund der Stornierung: <code>:reason</code> <br><br>',
-    'email_payment_completed_subject' => 'Zahlung Bezahlt',
+    'email_payment_completed_subject' => 'Rechnung Bezahlt',
     'email_payment_completed_button' => 'Rechnung ansehen',
     'email_payment_completed_content' => '                <br><br>
                 Details zur Zahlung: <br>
