@@ -1,6 +1,7 @@
 <?php
 
 return [
+    'apply' => 'Anwenden',
     'explore_plans' => 'Mehr Erfahren',
     'choose_domain' => 'Wählen eine Domain....',
     'reg_new_domain' => 'Neue Domain registrieren',
