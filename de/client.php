@@ -1,6 +1,8 @@
 <?php
 
 return [
+    'personal_details' => 'Persönliche Informationen',
+    'personal_details_desc' => 'Bitte gebe deine Informationen ein.',
     'apply' => 'Anwenden',
     'explore_plans' => 'Mehr Erfahren',
     'choose_domain' => 'Wählen eine Domain....',
