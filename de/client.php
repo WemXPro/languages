@@ -1,7 +1,8 @@
 <?php
 
 return [
-    'vat' => 'Steuern',
+    'discount' => 'Rabatt',
+    'vat' => 'Umsatzsteuer',
     'incl' => 'Inkl.',
     'excl' => 'Exkl.',
     'pricing_for_service' => ':service',
