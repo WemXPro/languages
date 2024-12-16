@@ -1,6 +1,9 @@
 <?php
 
 return [
+    'pricing_for_service' => ':service',
+    'custom_options' => 'Einstellungen',
+    'custom_options_desc' => 'Nehme Einstellungen an deinem Paket vor.',
     'configurable_options' => 'Optionen',
     'configurable_options_desc' => 'Optionen erlauben es dir, dein Produkt auf dich zuzuschneiden.',
     'personal_details' => 'Persönliche Informationen',
