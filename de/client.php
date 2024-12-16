@@ -1,6 +1,8 @@
 <?php
 
 return [
+    'configurable_options' => 'Optionen',
+    'configurable_options_desc' => 'Optionen erlauben es dir, dein Produkt auf dich zuzuschneiden.',
     'personal_details' => 'Persönliche Informationen',
     'personal_details_desc' => 'Bitte gebe deine Informationen ein.',
     'apply' => 'Anwenden',
