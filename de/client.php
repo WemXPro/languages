@@ -1,6 +1,9 @@
 <?php
 
 return [
+    'vat' => 'Steuern',
+    'incl' => 'Inkl.',
+    'excl' => 'Exkl.',
     'pricing_for_service' => ':service',
     'custom_options' => 'Einstellungen',
     'custom_options_desc' => 'Nehme Einstellungen an deinem Paket vor.',
