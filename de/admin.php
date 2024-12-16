@@ -113,7 +113,7 @@ return [
     'orders' => 'Bestellungen',
     'orders_cancelled' => 'Storniert',
     'orders_terminated' => 'Beendet',
-    'orders_suspended' => 'Ausgesetzt',
+    'orders_suspended' => 'Suspendiert',
     'new_users' => 'Neue Benutzer',
     'revenue' => 'Umsatz',
     'orders_total_active' => 'Aktive Bestellungen ',
@@ -239,7 +239,7 @@ return [
     'terminate' => 'Beenden',
     'extend_date' => 'Datum verlängern',
     'unsuspend' => 'Freigeben',
-    'suspend' => 'Aussetzten',
+    'suspend' => 'Suspendieren',
     'service_cancelled' => 'Dieser Dienst wurde storniert am',
     'price_data_warn_price' => 'Änder bitte keine Dienstleistungspreisdaten und fahre nur fort, wenn du sicher bist, was du tust und die Syntax kennst.',
     'price_data_service_desc' => 'Über dieses Feld kannst du die Preisdaten für jeden Auftrag ändern. Um den Preis für einen bestimmten Zeitraum
