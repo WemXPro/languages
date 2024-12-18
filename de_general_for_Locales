@@ -1,0 +1,32 @@
+<?php
+
+return [
+    'module_name' => 'Sprachmodul',
+    'title' => 'Sprachmanager',
+    'header' => 'Lokalisierungen',
+    'name' => 'Sprachmodul',
+    'language' => 'Sprache',
+    'cancel' => 'Abbrechen',
+    'select_localisation' => 'Lokalisierung auswählen',
+    'update_all_localisation' => 'Alle Lokalisierungen aktualisieren',
+    'generate_new' => 'Neu generieren',
+    'locale_code' => 'Code',
+    'locale_name' => 'Name',
+    'locale_path' => 'Pfad',
+    'remove' => 'Entfernen',
+    'locale_actions' => 'Aktionen',
+    'translation' => 'Übersetzung',
+    'translate' => 'Übersetzen',
+    'files' => 'Dateien',
+    'general_files' => 'Allgemeine Dateien',
+    'module_files' => ':module-Moduldateien',
+    'generate' => 'Generieren',
+    'develop_info' => '<code class="ml-4">Wenn Sie diese Nachricht nicht sehen möchten, deaktivieren Sie den Debug-Modus.
+        <br>Wenn Sie ein Entwickler sind, ermöglicht das Modul das automatische Generieren von Lokalisierungen.
+        <br>Fügen Sie die Option LOCALES_GENERATOR=true zur .env-Datei hinzu.
+        <br>Danach können Sie einfach die Funktionen nutzen. Beispiele:<br><strong class="text-dark">
+         __(\'file.key\'), __(\'file.key1.key2\'), __(\'module::file.key1.key2\'), 
+         @lang(\'file.key1\'), @lang(\'module::file.key\', [\'default\' => \'Schlüsselwert\'])</strong>
+        <br>Falls die Datei nicht existiert, wird sie mit dem Schlüssel und Wert erstellt. Existiert die Datei bereits, werden Schlüssel und Wert hinzugefügt.
+        <br>Für den korrekten Betrieb des Moduls stellen Sie sicher, dass die Rechte für die Verzeichnisse und Lokalisierungsdateien www-data gehören.</code>',
+];
