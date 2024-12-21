@@ -1,6 +1,7 @@
 <?php
 
 return [
+    'bill_to' => 'Rechnungsempfänger',
     'discount' => 'Rabatt',
     'vat' => 'Umsatzsteuer',
     'incl' => 'Inkl.',
