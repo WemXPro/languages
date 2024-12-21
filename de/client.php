@@ -1,6 +1,20 @@
 <?php
 
 return [
+    'bill_to' => 'Rechnungsempfänger',
+    'discount' => 'Rabatt',
+    'vat' => 'Umsatzsteuer',
+    'incl' => 'Inkl.',
+    'excl' => 'Exkl.',
+    'pricing_for_service' => ':service',
+    'custom_options' => 'Einstellungen',
+    'custom_options_desc' => 'Nehme Einstellungen an deinem Paket vor.',
+    'configurable_options' => 'Optionen',
+    'configurable_options_desc' => 'Optionen erlauben es dir, dein Produkt auf dich zuzuschneiden.',
+    'personal_details' => 'Persönliche Informationen',
+    'personal_details_desc' => 'Bitte gebe deine Informationen ein.',
+    'apply' => 'Anwenden',
+    'explore_plans' => 'Mehr Erfahren',
     'choose_domain' => 'Wählen eine Domain....',
     'reg_new_domain' => 'Neue Domain registrieren',
     'use_own_domain' => 'Verwende deine eigene Domain',
@@ -289,7 +303,7 @@ return [
             &bull; Servicename: :name <br>
             &bull; Gnadenfrist bis: :period <br>
             &bull; Grund der Stornierung: <code>:reason</code> <br><br>',
-    'email_payment_completed_subject' => 'Zahlung Bezahlt',
+    'email_payment_completed_subject' => 'Rechnung Bezahlt',
     'email_payment_completed_button' => 'Rechnung ansehen',
     'email_payment_completed_content' => '                <br><br>
                 Details zur Zahlung: <br>

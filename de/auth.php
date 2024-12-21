@@ -58,7 +58,7 @@ return [
     'sign_in_google' => 'Anmelden mit Google',
     'sign_in_discord' => 'Anmelden mit Discord',
     'sign_in_github' => 'Anmelden mit Github',
-    'sign_in_account' => 'Mit deimen Account anmelden',
+    'sign_in_account' => 'Mit deinem Account anmelden',
     'no_account' => 'Du hast noch kein Konto?',
     'sign_up' => 'Registrieren',
     'name' => 'Name',
