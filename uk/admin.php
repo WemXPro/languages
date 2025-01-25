@@ -866,4 +866,5 @@ return [
     'suspended_orders_users' => 'Користувачі з призупиненими замовленнями',
     'terminated_orders_users' => 'Користувачі зі скасованими замовленнями',
     'widgets' => 'Віджети',
+    'other' => 'Інше',
 ];

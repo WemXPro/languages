@@ -909,4 +909,5 @@ return [
     'widgets' => 'Widgets',
     'allow_auto_balance_renewal' => 'Allow auto balance renewal',
     'allow_auto_balance_renewal_desc' => 'Allow users to enable auto balance renewal for their orders',
+    'other' => 'Other',
 ];
